@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 Pilih salah satu:
 
-- **A (cepat, disarankan):** unduh `f1_laps_all_2021_2025.csv` dari `[ISI LINK GOOGLE DRIVE / GITHUB RELEASE]`, lalu taruh di `ml/data/`.
+- **A (cepat, disarankan):** unduh `f1_laps_all_2021_2025.csv` dari `(https://drive.google.com/file/d/1CBcd1RRUQk1XGABEkBbpRn881xNUKePs/view?usp=sharing)`, lalu taruh di `ml/data/`.
 - **B (dari nol):** `python fastf1_download.py`. Bisa memakan beberapa jam karena rate limit FastF1 (500 request/jam); script menunggu otomatis dan bisa dihentikan lalu dilanjutkan.
 
 Setelah data ada: `python audit_data.py` untuk laporan kualitas data.
