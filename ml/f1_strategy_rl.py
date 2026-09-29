@@ -307,3 +307,201 @@ display(pd.DataFrame(rows))
 # 1. Apakah degradasi ban terlihat pada Viz 1? Untuk compound mana?
 # 2. Bagaimana slope berubah setelah kontrol bahan bakar?
 # 3. Faktor apa yang paling mengganggu interpretasi pada data kamu?
+
+# %% [markdown]
+# ## Bagian B. Model Lap Time (Simulator Transisi)
+#
+# Tujuan: `f(state_t, action_t) -> predicted LapTime_(t+1)`, dilatih dari `clean` (hasil Bagian A).
+#
+# **Fitur yang dipakai (aman / diketahui sebelum lap dijalani):**
+# `Circuit`, `TeamLineage` (nama team dipetakan lintas rebranding), `Compound`, `TyreLife`,
+# `Stint`, `LapNumber`, `LapsRemaining` (proksi bahan bakar), `RollingPace3` (rata-rata 3 lap
+# bersih sebelumnya, dalam race & driver yang sama).
+#
+# **Fitur yang SENGAJA tidak dipakai (potensi leakage):**
+# `pace_delta` versi EDA (memakai median seluruh race — informasi masa depan), `Position` setelah
+# lap (dipengaruhi hasil lap itu sendiri), `Sector*Time` dari lap yang sedang diprediksi.
+#
+# **Asumsi yang harus disebut di laporan:** `TrackTemp`/`AirTemp` memakai nilai terukur pada lap
+# tersebut (bukan forecast) — sedikit optimis, tapi lazim di studi motorsport dan hampir tidak
+# berubah antar lap yang berdekatan.
+
+# %%
+from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+from sklearn.metrics import mean_absolute_error, mean_squared_error
+import lightgbm as lgb
+import joblib
+
+MODEL_DIR = "./models"
+os.makedirs(MODEL_DIR, exist_ok=True)
+
+# %% [markdown]
+# ### B.1 Pemetaan nama team lintas musim (rebranding)
+
+# %%
+# FastF1 memberi nama team sesuai musim; beberapa entitas berganti nama.
+# Pemetaan berikut mengelompokkan nama ke 'lineage' agar konsisten sebagai fitur.
+# PERIKSA/LENGKAPI sesuai nama persis yang muncul di datamu (lihat daftar di bawah).
+TEAM_LINEAGE = {
+    "Alfa Romeo Racing": "Sauber_lineage", "Alfa Romeo": "Sauber_lineage",
+    "Kick Sauber": "Sauber_lineage", "Sauber": "Sauber_lineage",
+    "AlphaTauri": "RB_lineage", "RB": "RB_lineage", "Racing Bulls": "RB_lineage",
+    "Racing Point": "Aston_lineage", "Aston Martin": "Aston_lineage",
+}
+
+
+def map_team(s: pd.Series) -> pd.Series:
+    return s.map(lambda t: TEAM_LINEAGE.get(t, t))  # default: pakai nama asli bila tidak ada di mapping
+
+
+print("Nama Team per musim (cek: apakah semua sudah tercakup mapping di atas?)")
+display(df.groupby("Season")["Team"].apply(lambda s: sorted(s.dropna().unique())).to_frame("Team"))
+
+# %% [markdown]
+# ### B.2 Feature engineering (dari `clean`, hasil Bagian A)
+
+# %%
+feat = clean.sort_values(["Season", "RaceName", "Driver", "LapNumber"]).copy()
+feat["TeamLineage"] = map_team(feat["Team"])
+feat["Circuit"] = feat["RaceName"]              # 1 circuit = 1 race dalam dataset ini
+feat["LapsRemaining"] = feat["RaceLaps"] - feat["LapNumber"]
+
+# Rolling pace: rata-rata LapTimeSeconds dari lap-lap SEBELUMNYA (shift 1) pada
+# race & driver yang sama. shift(1) + rolling mencegah lap saat ini "melihat" dirinya sendiri.
+g = feat.groupby(["Season", "RaceName", "Driver"])["LapTimeSeconds"]
+feat["RollingPace3"] = g.transform(lambda s: s.shift(1).rolling(3, min_periods=1).mean())
+feat["RollingPace3"] = feat["RollingPace3"].fillna(feat["LapTimeSeconds"].median())  # awal stint
+
+FEATURES_NUM = ["TyreLife", "Stint", "LapNumber", "LapsRemaining", "RollingPace3"]
+if "TrackTemp" in feat.columns:
+    FEATURES_NUM += ["TrackTemp", "AirTemp"]
+FEATURES_CAT = ["Compound", "Circuit", "TeamLineage"]
+TARGET = "LapTimeSeconds"
+
+model_df = feat.dropna(subset=FEATURES_NUM + FEATURES_CAT + [TARGET]).copy()
+print(f"Baris siap dimodelkan: {len(model_df):,} dari {len(feat):,} clean lap")
+model_df[["Season", "RaceName", "Driver"] + FEATURES_NUM + FEATURES_CAT + [TARGET]].head()
+
+# %% [markdown]
+# ### B.3 Split temporal (bukan random split!)
+
+# %%
+TRAIN_SEASONS = [2021, 2022, 2023]
+VAL_SEASONS = [2024]
+TEST_SEASONS = [2025]
+
+train = model_df[model_df["Season"].isin(TRAIN_SEASONS)]
+val = model_df[model_df["Season"].isin(VAL_SEASONS)]
+test = model_df[model_df["Season"].isin(TEST_SEASONS)]
+
+print(f"Train {TRAIN_SEASONS}: {len(train):,} lap, {train.groupby(['Season','RaceName']).ngroups} race")
+print(f"Val   {VAL_SEASONS}: {len(val):,} lap, {val.groupby(['Season','RaceName']).ngroups} race")
+print(f"Test  {TEST_SEASONS}: {len(test):,} lap, {test.groupby(['Season','RaceName']).ngroups} race")
+
+# Sanity check wajib: pastikan tidak ada race yang sama muncul di lebih dari satu split
+overlap = (set(zip(train.Season, train.RaceName)) & set(zip(val.Season, val.RaceName))
+           | set(zip(train.Season, train.RaceName)) & set(zip(test.Season, test.RaceName)))
+assert not overlap, f"BOCOR! Race berikut ada di >1 split: {overlap}"
+print("OK: tidak ada race yang bocor antar split.")
+
+# %% [markdown]
+# ### B.4 Baseline: Linear Regression
+
+# %%
+def to_xy(d):
+    return d[FEATURES_NUM + FEATURES_CAT], d[TARGET].to_numpy()
+
+
+X_train, y_train = to_xy(train)
+X_val, y_val = to_xy(val)
+X_test, y_test = to_xy(test)
+
+pre = ColumnTransformer([
+    ("num", "passthrough", FEATURES_NUM),
+    ("cat", OneHotEncoder(handle_unknown="ignore"), FEATURES_CAT),
+])
+lin_model = Pipeline([("pre", pre), ("lr", LinearRegression())])
+lin_model.fit(X_train, y_train)
+
+
+def report(name, y_true, y_pred):
+    mae = mean_absolute_error(y_true, y_pred)
+    rmse = mean_squared_error(y_true, y_pred) ** 0.5
+    print(f"{name:35s} MAE={mae:6.3f}s  RMSE={rmse:6.3f}s")
+    return mae, rmse
+
+
+print("--- Linear Regression (baseline) ---")
+report("Train", y_train, lin_model.predict(X_train))
+report("Val (2024)", y_val, lin_model.predict(X_val))
+lr_test_mae, lr_test_rmse = report("Test (2025, unseen)", y_test, lin_model.predict(X_test))
+
+joblib.dump(lin_model, f"{MODEL_DIR}/lap_time_linear.joblib")
+
+# %% [markdown]
+# ### B.5 Model utama: LightGBM
+
+# %%
+cat_idx = [FEATURES_NUM.__len__() + i for i in range(len(FEATURES_CAT))]  # tidak dipakai; LGBM di bawah pakai kolom category
+
+lgb_train_df = train[FEATURES_NUM + FEATURES_CAT].copy()
+lgb_val_df = val[FEATURES_NUM + FEATURES_CAT].copy()
+lgb_test_df = test[FEATURES_NUM + FEATURES_CAT].copy()
+for c in FEATURES_CAT:
+    cats = pd.Categorical(train[c]).categories
+    for d in (lgb_train_df, lgb_val_df, lgb_test_df):
+        d[c] = pd.Categorical(d[c], categories=cats)
+
+gbm = lgb.LGBMRegressor(
+    n_estimators=1000, learning_rate=0.03, num_leaves=31,
+    min_child_samples=20, subsample=0.8, colsample_bytree=0.8,
+    random_state=42, verbosity=-1,
+)
+gbm.fit(
+    lgb_train_df, y_train,
+    eval_set=[(lgb_val_df, y_val)],
+    eval_metric="mae",
+    categorical_feature=FEATURES_CAT,
+    callbacks=[lgb.early_stopping(50, verbose=False)],
+)
+
+print(f"--- LightGBM (best_iteration={gbm.best_iteration_}) ---")
+report("Train", y_train, gbm.predict(lgb_train_df))
+report("Val (2024)", y_val, gbm.predict(lgb_val_df))
+gbm_test_mae, gbm_test_rmse = report("Test (2025, unseen)", y_test, gbm.predict(lgb_test_df))
+
+joblib.dump(gbm, f"{MODEL_DIR}/lap_time_lgbm.joblib")
+
+# %% [markdown]
+# ### B.6 Ringkasan perbandingan & feature importance
+
+# %%
+summary = pd.DataFrame([
+    {"Model": "Linear Regression", "MAE_test": lr_test_mae, "RMSE_test": lr_test_rmse},
+    {"Model": "LightGBM", "MAE_test": gbm_test_mae, "RMSE_test": gbm_test_rmse},
+]).round(4)
+display(summary)
+summary.to_csv(f"{MODEL_DIR}/comparison.csv", index=False)
+
+imp = pd.Series(gbm.feature_importances_, index=FEATURES_NUM + FEATURES_CAT).sort_values()
+fig, ax = plt.subplots(figsize=(7, 5))
+imp.plot.barh(ax=ax, color="#1f6fd0")
+ax.set_title("LightGBM feature importance")
+ax.set_xlabel("importance (split count)")
+fig.tight_layout()
+fig.savefig(f"{FIG_DIR}/viz4_feature_importance.png", dpi=150)
+plt.show()
+
+# %% [markdown]
+# **Pertanyaan yang harus dijawab di laporan (isi setelah melihat hasil di atas)**
+# 1. Seberapa akurat simulator memprediksi lap time pada season 2025 (unseen)? Bandingkan MAE dengan
+#    skala variasi lap time itu sendiri (lihat std di Viz 2).
+# 2. Fitur apa yang paling penting menurut LightGBM? Apakah `TyreLife`/`Compound` termasuk yang
+#    berpengaruh, atau kalah dominan oleh `Circuit`/`RollingPace3`?
+# 3. Apakah LightGBM jauh lebih baik dari Linear Regression? Jika ya, itu indikasi hubungan
+#    fitur-target memang non-linear (sesuai ekspektasi degradasi ban).
+# 4. Model ini akan dipanggil berulang kali oleh environment RL di Bagian C. Apakah errornya
+#    (MAE) cukup kecil untuk dipercaya sebagai dasar keputusan pit, atau perlu perbaikan dulu?
