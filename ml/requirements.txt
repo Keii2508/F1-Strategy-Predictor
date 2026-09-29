@@ -20,5 +20,6 @@ lightgbm>=4.5
 # Catatan: PyTorch/Stable-Baselines3 bisa belum tersedia untuk Python 3.14.
 # Jika gagal, gunakan virtual environment Python 3.12.
 # gymnasium
-# stable-baselines3
-# sb3-contrib
+gymnasium
+stable-baselines3
+sb3-contrib
