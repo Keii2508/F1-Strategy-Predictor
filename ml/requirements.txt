@@ -1,0 +1,24 @@
+# Dependensi bagian ML (folder ml/). Dites di Python 3.14 (Windows).
+# Install: pip install -r requirements.txt
+
+# --- Data & EDA ---
+fastf1>=3.8.3
+pandas>=2.3
+numpy>=2.0
+matplotlib>=3.9
+scipy>=1.11
+
+# --- Notebook ---
+jupyter
+jupytext
+
+# --- Bagian B: model lap time (aktifkan saat mulai Bagian B) ---
+scikit-learn>=1.5
+lightgbm>=4.5
+
+# --- Bagian C/D: RL (aktifkan saat mulai Bagian C) ---
+# Catatan: PyTorch/Stable-Baselines3 bisa belum tersedia untuk Python 3.14.
+# Jika gagal, gunakan virtual environment Python 3.12.
+# gymnasium
+# stable-baselines3
+# sb3-contrib
