@@ -16,6 +16,8 @@ jupytext
 scikit-learn>=1.5
 lightgbm>=4.5
 
+gymnasium>=1.0
+
 # --- Bagian C/D: RL (aktifkan saat mulai Bagian C) ---
 # Catatan: PyTorch/Stable-Baselines3 bisa belum tersedia untuk Python 3.14.
 # Jika gagal, gunakan virtual environment Python 3.12.
