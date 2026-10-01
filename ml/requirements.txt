@@ -16,9 +16,10 @@ jupytext
 scikit-learn>=1.5
 lightgbm>=4.5
 
-# --- Bagian C/D: RL (aktifkan saat mulai Bagian C) ---
-# Catatan: PyTorch/Stable-Baselines3 bisa belum tersedia untuk Python 3.14.
-# Jika gagal, gunakan virtual environment Python 3.12.
-# gymnasium
+gymnasium>=1.0
+
+# --- Bagian D: agent RL (aktifkan saat mulai Bagian D) ---
+# Catatan: pakai virtual environment Python 3.12 (lihat catatan sebelumnya soal
+# Smart App Control yang memblokir Python 3.14 di beberapa PC).
 # stable-baselines3
 # sb3-contrib
