@@ -18,9 +18,8 @@ lightgbm>=4.5
 
 gymnasium>=1.0
 
-# --- Bagian C/D: RL (aktifkan saat mulai Bagian C) ---
-# Catatan: PyTorch/Stable-Baselines3 bisa belum tersedia untuk Python 3.14.
-# Jika gagal, gunakan virtual environment Python 3.12.
-# gymnasium
-# stable-baselines3
-# sb3-contrib
+# --- Bagian D: agent RL ---
+# PyTorch resmi sudah mendukung Python 3.10-3.14, jadi aman diinstall di .venv yang sama
+# (tidak perlu Python 3.12 terpisah).
+stable-baselines3>=2.3
+sb3-contrib>=2.3   # MaskablePPO (action masking untuk aturan balapan)

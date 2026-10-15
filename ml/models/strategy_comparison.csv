@@ -1,1174 +1,1174 @@
 Season,RaceName,Driver,Strategy,total_time_s,n_pits,compounds_used,tyrelife_exceeded
 2025,Abu Dhabi Grand Prix,ALB,Historical,5198.3,2,3,False
 2025,Abu Dhabi Grand Prix,ALB,Rule-based,5217.8,2,3,False
-2025,Abu Dhabi Grand Prix,ALB,RL (PPO),5209.7,0,1,True
+2025,Abu Dhabi Grand Prix,ALB,RL (PPO),5206.3,1,2,False
 2025,Abu Dhabi Grand Prix,ALO,Historical,5152.0,1,2,False
 2025,Abu Dhabi Grand Prix,ALO,Rule-based,5154.4,1,2,False
-2025,Abu Dhabi Grand Prix,ALO,RL (PPO),5159.8,0,1,True
+2025,Abu Dhabi Grand Prix,ALO,RL (PPO),5160.0,1,2,False
 2025,Abu Dhabi Grand Prix,ANT,Historical,5124.8,1,2,False
 2025,Abu Dhabi Grand Prix,ANT,Rule-based,5123.5,0,1,True
-2025,Abu Dhabi Grand Prix,ANT,RL (PPO),5123.5,0,1,True
+2025,Abu Dhabi Grand Prix,ANT,RL (PPO),5122.0,1,2,False
 2025,Abu Dhabi Grand Prix,BEA,Historical,5196.8,1,2,False
 2025,Abu Dhabi Grand Prix,BEA,Rule-based,5206.2,1,2,False
-2025,Abu Dhabi Grand Prix,BEA,RL (PPO),5208.0,0,1,True
+2025,Abu Dhabi Grand Prix,BEA,RL (PPO),5213.7,1,2,False
 2025,Abu Dhabi Grand Prix,BOR,Historical,5151.4,1,2,False
 2025,Abu Dhabi Grand Prix,BOR,Rule-based,5154.4,1,2,False
-2025,Abu Dhabi Grand Prix,BOR,RL (PPO),5159.8,0,1,True
+2025,Abu Dhabi Grand Prix,BOR,RL (PPO),5160.0,1,2,False
 2025,Abu Dhabi Grand Prix,COL,Historical,5076.4,2,2,False
 2025,Abu Dhabi Grand Prix,COL,Rule-based,5068.8,1,2,False
-2025,Abu Dhabi Grand Prix,COL,RL (PPO),5073.1,0,1,True
+2025,Abu Dhabi Grand Prix,COL,RL (PPO),5074.6,1,2,False
 2025,Abu Dhabi Grand Prix,GAS,Historical,5075.1,2,2,False
 2025,Abu Dhabi Grand Prix,GAS,Rule-based,5068.8,1,2,False
-2025,Abu Dhabi Grand Prix,GAS,RL (PPO),5073.1,0,1,True
+2025,Abu Dhabi Grand Prix,GAS,RL (PPO),5074.6,1,2,False
 2025,Abu Dhabi Grand Prix,HAD,Historical,5064.9,1,2,False
 2025,Abu Dhabi Grand Prix,HAD,Rule-based,5068.8,1,2,False
-2025,Abu Dhabi Grand Prix,HAD,RL (PPO),5073.2,0,1,True
+2025,Abu Dhabi Grand Prix,HAD,RL (PPO),5074.6,1,2,False
 2025,Abu Dhabi Grand Prix,HAM,Historical,5125.8,2,3,False
 2025,Abu Dhabi Grand Prix,HAM,Rule-based,5141.6,2,3,False
-2025,Abu Dhabi Grand Prix,HAM,RL (PPO),5129.0,0,1,True
+2025,Abu Dhabi Grand Prix,HAM,RL (PPO),5131.2,1,2,False
 2025,Abu Dhabi Grand Prix,HUL,Historical,5160.6,2,3,False
 2025,Abu Dhabi Grand Prix,HUL,Rule-based,5162.9,2,3,False
-2025,Abu Dhabi Grand Prix,HUL,RL (PPO),5159.8,0,1,True
+2025,Abu Dhabi Grand Prix,HUL,RL (PPO),5154.4,1,2,False
 2025,Abu Dhabi Grand Prix,LAW,Historical,5064.0,1,2,False
 2025,Abu Dhabi Grand Prix,LAW,Rule-based,5068.8,1,2,False
-2025,Abu Dhabi Grand Prix,LAW,RL (PPO),5073.2,0,1,True
+2025,Abu Dhabi Grand Prix,LAW,RL (PPO),5074.6,1,2,False
 2025,Abu Dhabi Grand Prix,LEC,Historical,5132.3,2,2,False
 2025,Abu Dhabi Grand Prix,LEC,Rule-based,5127.4,1,2,False
-2025,Abu Dhabi Grand Prix,LEC,RL (PPO),5129.0,0,1,True
+2025,Abu Dhabi Grand Prix,LEC,RL (PPO),5134.1,1,2,False
 2025,Abu Dhabi Grand Prix,NOR,Historical,5126.9,1,2,False
 2025,Abu Dhabi Grand Prix,NOR,Rule-based,5138.9,1,2,False
-2025,Abu Dhabi Grand Prix,NOR,RL (PPO),5151.3,0,1,True
+2025,Abu Dhabi Grand Prix,NOR,RL (PPO),5152.4,1,2,False
 2025,Abu Dhabi Grand Prix,OCO,Historical,5200.9,1,2,False
 2025,Abu Dhabi Grand Prix,OCO,Rule-based,5206.2,1,2,False
-2025,Abu Dhabi Grand Prix,OCO,RL (PPO),5208.0,0,1,True
+2025,Abu Dhabi Grand Prix,OCO,RL (PPO),5213.7,1,2,False
 2025,Abu Dhabi Grand Prix,PIA,Historical,5153.8,1,2,False
 2025,Abu Dhabi Grand Prix,PIA,Rule-based,5151.3,0,1,True
-2025,Abu Dhabi Grand Prix,PIA,RL (PPO),5151.3,0,1,True
+2025,Abu Dhabi Grand Prix,PIA,RL (PPO),5137.8,1,2,False
 2025,Abu Dhabi Grand Prix,RUS,Historical,5114.2,1,2,False
 2025,Abu Dhabi Grand Prix,RUS,Rule-based,5122.5,1,2,False
-2025,Abu Dhabi Grand Prix,RUS,RL (PPO),5123.5,0,1,True
+2025,Abu Dhabi Grand Prix,RUS,RL (PPO),5128.1,1,2,False
 2025,Abu Dhabi Grand Prix,SAI,Historical,5199.4,1,2,False
 2025,Abu Dhabi Grand Prix,SAI,Rule-based,5201.6,1,2,False
-2025,Abu Dhabi Grand Prix,SAI,RL (PPO),5203.5,0,1,True
+2025,Abu Dhabi Grand Prix,SAI,RL (PPO),5209.3,1,2,False
 2025,Abu Dhabi Grand Prix,STR,Historical,5162.1,1,2,False
 2025,Abu Dhabi Grand Prix,STR,Rule-based,5159.8,0,1,True
-2025,Abu Dhabi Grand Prix,STR,RL (PPO),5159.8,0,1,True
+2025,Abu Dhabi Grand Prix,STR,RL (PPO),5153.6,1,2,False
 2025,Abu Dhabi Grand Prix,TSU,Historical,5118.2,1,2,False
 2025,Abu Dhabi Grand Prix,TSU,Rule-based,5119.1,0,1,True
-2025,Abu Dhabi Grand Prix,TSU,RL (PPO),5119.1,0,1,True
+2025,Abu Dhabi Grand Prix,TSU,RL (PPO),5117.1,1,2,False
 2025,Abu Dhabi Grand Prix,VER,Historical,5115.4,1,2,False
 2025,Abu Dhabi Grand Prix,VER,Rule-based,5116.1,1,2,False
-2025,Abu Dhabi Grand Prix,VER,RL (PPO),5119.1,0,1,True
+2025,Abu Dhabi Grand Prix,VER,RL (PPO),5123.8,1,2,False
 2025,Austrian Grand Prix,ALB,Historical,1057.4,0,1,False
 2025,Austrian Grand Prix,ALB,Rule-based,1057.4,0,1,False
-2025,Austrian Grand Prix,ALB,RL (PPO),1057.4,0,1,False
+2025,Austrian Grand Prix,ALB,RL (PPO),1075.3,1,2,False
 2025,Austrian Grand Prix,ALO,Historical,4936.6,1,2,False
 2025,Austrian Grand Prix,ALO,Rule-based,4936.9,1,2,False
-2025,Austrian Grand Prix,ALO,RL (PPO),4935.0,0,1,True
+2025,Austrian Grand Prix,ALO,RL (PPO),4937.8,1,2,False
 2025,Austrian Grand Prix,BEA,Historical,4961.4,2,3,False
 2025,Austrian Grand Prix,BEA,Rule-based,4959.9,2,3,False
-2025,Austrian Grand Prix,BEA,RL (PPO),4939.2,0,1,True
+2025,Austrian Grand Prix,BEA,RL (PPO),4947.9,1,2,False
 2025,Austrian Grand Prix,BOR,Historical,4938.6,1,2,False
 2025,Austrian Grand Prix,BOR,Rule-based,4936.9,1,2,False
-2025,Austrian Grand Prix,BOR,RL (PPO),4935.0,0,1,True
+2025,Austrian Grand Prix,BOR,RL (PPO),4937.8,1,2,False
 2025,Austrian Grand Prix,COL,Historical,4954.4,2,3,False
 2025,Austrian Grand Prix,COL,Rule-based,4950.9,2,3,False
-2025,Austrian Grand Prix,COL,RL (PPO),4936.2,0,1,True
+2025,Austrian Grand Prix,COL,RL (PPO),4939.0,1,2,False
 2025,Austrian Grand Prix,GAS,Historical,4953.5,2,3,False
 2025,Austrian Grand Prix,GAS,Rule-based,4950.9,2,3,False
-2025,Austrian Grand Prix,GAS,RL (PPO),4936.2,0,1,True
+2025,Austrian Grand Prix,GAS,RL (PPO),4939.0,1,2,False
 2025,Austrian Grand Prix,HAD,Historical,4952.6,2,3,False
 2025,Austrian Grand Prix,HAD,Rule-based,4948.4,2,3,False
-2025,Austrian Grand Prix,HAD,RL (PPO),4935.1,0,1,True
+2025,Austrian Grand Prix,HAD,RL (PPO),4936.8,1,2,False
 2025,Austrian Grand Prix,HAM,Historical,5015.0,2,2,False
 2025,Austrian Grand Prix,HAM,Rule-based,5004.8,1,2,False
-2025,Austrian Grand Prix,HAM,RL (PPO),5003.7,0,1,True
+2025,Austrian Grand Prix,HAM,RL (PPO),5004.5,1,2,False
 2025,Austrian Grand Prix,HUL,Historical,4942.7,1,2,True
 2025,Austrian Grand Prix,HUL,Rule-based,4948.4,2,3,False
-2025,Austrian Grand Prix,HUL,RL (PPO),4935.1,0,1,True
+2025,Austrian Grand Prix,HUL,RL (PPO),4936.8,1,2,False
 2025,Austrian Grand Prix,LAW,Historical,5008.3,1,2,False
 2025,Austrian Grand Prix,LAW,Rule-based,5008.7,1,2,False
-2025,Austrian Grand Prix,LAW,RL (PPO),5007.3,0,1,True
+2025,Austrian Grand Prix,LAW,RL (PPO),5009.5,1,2,False
 2025,Austrian Grand Prix,LEC,Historical,5015.0,2,2,False
 2025,Austrian Grand Prix,LEC,Rule-based,5004.8,1,2,False
-2025,Austrian Grand Prix,LEC,RL (PPO),5003.7,0,1,True
+2025,Austrian Grand Prix,LEC,RL (PPO),5004.5,1,2,False
 2025,Austrian Grand Prix,NOR,Historical,5021.6,2,2,False
 2025,Austrian Grand Prix,NOR,Rule-based,5008.6,1,2,False
-2025,Austrian Grand Prix,NOR,RL (PPO),5007.2,0,1,True
+2025,Austrian Grand Prix,NOR,RL (PPO),5009.4,1,2,False
 2025,Austrian Grand Prix,OCO,Historical,4949.0,1,2,True
 2025,Austrian Grand Prix,OCO,Rule-based,4947.7,1,2,False
-2025,Austrian Grand Prix,OCO,RL (PPO),4939.2,0,1,True
+2025,Austrian Grand Prix,OCO,RL (PPO),4947.8,1,2,False
 2025,Austrian Grand Prix,PIA,Historical,5018.7,2,2,False
 2025,Austrian Grand Prix,PIA,Rule-based,5008.6,1,2,False
-2025,Austrian Grand Prix,PIA,RL (PPO),5007.2,0,1,True
+2025,Austrian Grand Prix,PIA,RL (PPO),5009.4,1,2,False
 2025,Austrian Grand Prix,RUS,Historical,5004.2,1,2,False
 2025,Austrian Grand Prix,RUS,Rule-based,5004.8,1,2,False
-2025,Austrian Grand Prix,RUS,RL (PPO),5003.7,0,1,True
+2025,Austrian Grand Prix,RUS,RL (PPO),5004.5,1,2,False
 2025,Austrian Grand Prix,STR,Historical,4947.4,2,3,False
 2025,Austrian Grand Prix,STR,Rule-based,4936.9,1,2,False
-2025,Austrian Grand Prix,STR,RL (PPO),4935.0,0,1,True
+2025,Austrian Grand Prix,STR,RL (PPO),4937.8,1,2,False
 2025,Austrian Grand Prix,TSU,Historical,4883.8,3,3,False
 2025,Austrian Grand Prix,TSU,Rule-based,4861.2,1,2,False
-2025,Austrian Grand Prix,TSU,RL (PPO),4858.7,0,1,True
+2025,Austrian Grand Prix,TSU,RL (PPO),4860.9,1,2,False
 2025,Azerbaijan Grand Prix,ALB,Historical,5367.5,1,2,False
 2025,Azerbaijan Grand Prix,ALB,Rule-based,5375.1,1,2,False
-2025,Azerbaijan Grand Prix,ALB,RL (PPO),5364.7,0,1,True
+2025,Azerbaijan Grand Prix,ALB,RL (PPO),5382.2,1,2,False
 2025,Azerbaijan Grand Prix,ALO,Historical,5361.8,1,2,False
 2025,Azerbaijan Grand Prix,ALO,Rule-based,5363.7,1,2,False
-2025,Azerbaijan Grand Prix,ALO,RL (PPO),5347.5,0,1,True
+2025,Azerbaijan Grand Prix,ALO,RL (PPO),5361.4,1,2,False
 2025,Azerbaijan Grand Prix,ANT,Historical,5344.5,1,2,False
 2025,Azerbaijan Grand Prix,ANT,Rule-based,5328.7,1,2,False
-2025,Azerbaijan Grand Prix,ANT,RL (PPO),5324.7,0,1,True
+2025,Azerbaijan Grand Prix,ANT,RL (PPO),5337.9,1,2,False
 2025,Azerbaijan Grand Prix,BEA,Historical,5376.0,1,2,False
 2025,Azerbaijan Grand Prix,BEA,Rule-based,5364.8,0,1,True
-2025,Azerbaijan Grand Prix,BEA,RL (PPO),5364.8,0,1,True
+2025,Azerbaijan Grand Prix,BEA,RL (PPO),5374.8,1,2,False
 2025,Azerbaijan Grand Prix,BOR,Historical,5363.3,1,2,False
 2025,Azerbaijan Grand Prix,BOR,Rule-based,5347.0,0,1,True
-2025,Azerbaijan Grand Prix,BOR,RL (PPO),5347.0,0,1,True
+2025,Azerbaijan Grand Prix,BOR,RL (PPO),5363.3,1,2,False
 2025,Azerbaijan Grand Prix,COL,Historical,5247.8,1,2,False
 2025,Azerbaijan Grand Prix,COL,Rule-based,5251.3,1,2,False
-2025,Azerbaijan Grand Prix,COL,RL (PPO),5235.0,0,1,True
+2025,Azerbaijan Grand Prix,COL,RL (PPO),5255.0,1,2,False
 2025,Azerbaijan Grand Prix,GAS,Historical,5253.8,1,2,False
 2025,Azerbaijan Grand Prix,GAS,Rule-based,5234.6,0,1,True
-2025,Azerbaijan Grand Prix,GAS,RL (PPO),5234.6,0,1,True
+2025,Azerbaijan Grand Prix,GAS,RL (PPO),5250.9,1,2,False
 2025,Azerbaijan Grand Prix,HAD,Historical,5364.3,1,2,False
 2025,Azerbaijan Grand Prix,HAD,Rule-based,5363.7,1,2,False
-2025,Azerbaijan Grand Prix,HAD,RL (PPO),5347.5,0,1,True
+2025,Azerbaijan Grand Prix,HAD,RL (PPO),5361.4,1,2,False
 2025,Azerbaijan Grand Prix,HAM,Historical,5336.7,1,2,False
 2025,Azerbaijan Grand Prix,HAM,Rule-based,5325.4,0,1,True
-2025,Azerbaijan Grand Prix,HAM,RL (PPO),5325.4,0,1,True
+2025,Azerbaijan Grand Prix,HAM,RL (PPO),5329.1,1,2,False
 2025,Azerbaijan Grand Prix,HUL,Historical,5366.8,1,2,False
 2025,Azerbaijan Grand Prix,HUL,Rule-based,5347.0,0,1,True
-2025,Azerbaijan Grand Prix,HUL,RL (PPO),5347.0,0,1,True
+2025,Azerbaijan Grand Prix,HUL,RL (PPO),5363.3,1,2,False
 2025,Azerbaijan Grand Prix,LAW,Historical,5361.6,1,2,False
 2025,Azerbaijan Grand Prix,LAW,Rule-based,5363.7,1,2,False
-2025,Azerbaijan Grand Prix,LAW,RL (PPO),5347.5,0,1,True
+2025,Azerbaijan Grand Prix,LAW,RL (PPO),5361.4,1,2,False
 2025,Azerbaijan Grand Prix,LEC,Historical,5324.0,1,2,False
 2025,Azerbaijan Grand Prix,LEC,Rule-based,5330.0,1,2,False
-2025,Azerbaijan Grand Prix,LEC,RL (PPO),5325.7,0,1,True
+2025,Azerbaijan Grand Prix,LEC,RL (PPO),5339.0,1,2,False
 2025,Azerbaijan Grand Prix,NOR,Historical,5363.8,1,2,False
 2025,Azerbaijan Grand Prix,NOR,Rule-based,5360.3,1,2,False
-2025,Azerbaijan Grand Prix,NOR,RL (PPO),5344.1,0,1,True
+2025,Azerbaijan Grand Prix,NOR,RL (PPO),5358.0,1,2,False
 2025,Azerbaijan Grand Prix,OCO,Historical,5384.8,1,2,True
 2025,Azerbaijan Grand Prix,OCO,Rule-based,5375.5,1,2,False
-2025,Azerbaijan Grand Prix,OCO,RL (PPO),5365.1,0,1,True
+2025,Azerbaijan Grand Prix,OCO,RL (PPO),5382.5,1,2,False
 2025,Azerbaijan Grand Prix,RUS,Historical,5338.4,1,2,False
 2025,Azerbaijan Grand Prix,RUS,Rule-based,5325.8,0,1,True
-2025,Azerbaijan Grand Prix,RUS,RL (PPO),5325.8,0,1,True
+2025,Azerbaijan Grand Prix,RUS,RL (PPO),5329.2,1,2,False
 2025,Azerbaijan Grand Prix,SAI,Historical,5375.1,1,2,False
 2025,Azerbaijan Grand Prix,SAI,Rule-based,5375.1,1,2,False
-2025,Azerbaijan Grand Prix,SAI,RL (PPO),5364.7,0,1,True
+2025,Azerbaijan Grand Prix,SAI,RL (PPO),5382.2,1,2,False
 2025,Azerbaijan Grand Prix,STR,Historical,5367.2,1,2,False
 2025,Azerbaijan Grand Prix,STR,Rule-based,5363.7,1,2,False
-2025,Azerbaijan Grand Prix,STR,RL (PPO),5347.5,0,1,True
+2025,Azerbaijan Grand Prix,STR,RL (PPO),5361.4,1,2,False
 2025,Azerbaijan Grand Prix,TSU,Historical,5326.3,1,2,False
 2025,Azerbaijan Grand Prix,TSU,Rule-based,5318.1,0,1,True
-2025,Azerbaijan Grand Prix,TSU,RL (PPO),5318.1,0,1,True
+2025,Azerbaijan Grand Prix,TSU,RL (PPO),5311.8,1,2,False
 2025,Azerbaijan Grand Prix,VER,Historical,5328.7,1,2,False
 2025,Azerbaijan Grand Prix,VER,Rule-based,5318.1,0,1,True
-2025,Azerbaijan Grand Prix,VER,RL (PPO),5318.1,0,1,True
+2025,Azerbaijan Grand Prix,VER,RL (PPO),5311.8,1,2,False
 2025,Bahrain Grand Prix,ALB,Historical,5598.0,2,3,False
 2025,Bahrain Grand Prix,ALB,Rule-based,5619.5,2,3,False
-2025,Bahrain Grand Prix,ALB,RL (PPO),5652.6,0,1,True
+2025,Bahrain Grand Prix,ALB,RL (PPO),5622.9,1,2,False
 2025,Bahrain Grand Prix,ALO,Historical,5588.5,1,2,False
 2025,Bahrain Grand Prix,ALO,Rule-based,5583.1,1,2,False
-2025,Bahrain Grand Prix,ALO,RL (PPO),5610.7,0,1,True
+2025,Bahrain Grand Prix,ALO,RL (PPO),5600.2,1,2,False
 2025,Bahrain Grand Prix,ANT,Historical,5519.0,2,2,False
 2025,Bahrain Grand Prix,ANT,Rule-based,5549.0,2,3,False
-2025,Bahrain Grand Prix,ANT,RL (PPO),5566.6,0,1,True
+2025,Bahrain Grand Prix,ANT,RL (PPO),5547.0,1,2,False
 2025,Bahrain Grand Prix,BEA,Historical,5596.2,2,2,False
 2025,Bahrain Grand Prix,BEA,Rule-based,5619.5,2,3,False
-2025,Bahrain Grand Prix,BEA,RL (PPO),5652.6,0,1,True
+2025,Bahrain Grand Prix,BEA,RL (PPO),5622.9,1,2,False
 2025,Bahrain Grand Prix,BOR,Historical,5568.8,2,2,False
 2025,Bahrain Grand Prix,BOR,Rule-based,5583.1,1,2,False
-2025,Bahrain Grand Prix,BOR,RL (PPO),5610.7,0,1,True
+2025,Bahrain Grand Prix,BOR,RL (PPO),5600.2,1,2,False
 2025,Bahrain Grand Prix,DOO,Historical,5561.2,2,3,False
 2025,Bahrain Grand Prix,DOO,Rule-based,5592.6,2,3,False
-2025,Bahrain Grand Prix,DOO,RL (PPO),5610.4,0,1,True
+2025,Bahrain Grand Prix,DOO,RL (PPO),5590.7,1,2,False
 2025,Bahrain Grand Prix,GAS,Historical,5561.6,2,3,False
 2025,Bahrain Grand Prix,GAS,Rule-based,5592.6,2,3,False
-2025,Bahrain Grand Prix,GAS,RL (PPO),5610.4,0,1,True
+2025,Bahrain Grand Prix,GAS,RL (PPO),5590.7,1,2,False
 2025,Bahrain Grand Prix,HAD,Historical,5558.3,2,3,False
 2025,Bahrain Grand Prix,HAD,Rule-based,5593.1,2,3,False
-2025,Bahrain Grand Prix,HAD,RL (PPO),5610.7,0,1,True
+2025,Bahrain Grand Prix,HAD,RL (PPO),5591.0,1,2,False
 2025,Bahrain Grand Prix,HAM,Historical,5551.7,1,2,False
 2025,Bahrain Grand Prix,HAM,Rule-based,5544.2,1,2,False
-2025,Bahrain Grand Prix,HAM,RL (PPO),5577.0,0,1,True
+2025,Bahrain Grand Prix,HAM,RL (PPO),5565.4,1,2,False
 2025,Bahrain Grand Prix,HUL,Historical,5581.8,1,2,True
 2025,Bahrain Grand Prix,HUL,Rule-based,5593.1,2,3,False
-2025,Bahrain Grand Prix,HUL,RL (PPO),5610.7,0,1,True
+2025,Bahrain Grand Prix,HUL,RL (PPO),5591.0,1,2,False
 2025,Bahrain Grand Prix,LAW,Historical,5567.2,2,3,False
 2025,Bahrain Grand Prix,LAW,Rule-based,5583.1,1,2,False
-2025,Bahrain Grand Prix,LAW,RL (PPO),5610.7,0,1,True
+2025,Bahrain Grand Prix,LAW,RL (PPO),5600.2,1,2,False
 2025,Bahrain Grand Prix,LEC,Historical,5551.7,1,2,False
 2025,Bahrain Grand Prix,LEC,Rule-based,5544.2,1,2,False
-2025,Bahrain Grand Prix,LEC,RL (PPO),5577.0,0,1,True
+2025,Bahrain Grand Prix,LEC,RL (PPO),5565.4,1,2,False
 2025,Bahrain Grand Prix,NOR,Historical,5552.0,1,2,True
 2025,Bahrain Grand Prix,NOR,Rule-based,5580.9,2,3,False
-2025,Bahrain Grand Prix,NOR,RL (PPO),5598.5,0,1,True
+2025,Bahrain Grand Prix,NOR,RL (PPO),5581.0,1,2,False
 2025,Bahrain Grand Prix,OCO,Historical,5586.4,2,3,False
 2025,Bahrain Grand Prix,OCO,Rule-based,5619.5,2,3,False
-2025,Bahrain Grand Prix,OCO,RL (PPO),5652.6,0,1,True
+2025,Bahrain Grand Prix,OCO,RL (PPO),5622.9,1,2,False
 2025,Bahrain Grand Prix,PIA,Historical,5557.8,1,2,True
 2025,Bahrain Grand Prix,PIA,Rule-based,5580.9,2,3,False
-2025,Bahrain Grand Prix,PIA,RL (PPO),5598.5,0,1,True
+2025,Bahrain Grand Prix,PIA,RL (PPO),5581.0,1,2,False
 2025,Bahrain Grand Prix,RUS,Historical,5516.7,2,2,False
 2025,Bahrain Grand Prix,RUS,Rule-based,5549.0,2,3,False
-2025,Bahrain Grand Prix,RUS,RL (PPO),5566.6,0,1,True
+2025,Bahrain Grand Prix,RUS,RL (PPO),5547.0,1,2,False
 2025,Bahrain Grand Prix,SAI,Historical,4443.7,3,3,False
 2025,Bahrain Grand Prix,SAI,Rule-based,4431.3,1,2,False
-2025,Bahrain Grand Prix,SAI,RL (PPO),4448.9,0,1,True
+2025,Bahrain Grand Prix,SAI,RL (PPO),4444.9,1,2,False
 2025,Bahrain Grand Prix,STR,Historical,5568.5,2,3,False
 2025,Bahrain Grand Prix,STR,Rule-based,5593.1,2,3,False
-2025,Bahrain Grand Prix,STR,RL (PPO),5610.7,0,1,True
+2025,Bahrain Grand Prix,STR,RL (PPO),5591.0,1,2,False
 2025,Bahrain Grand Prix,TSU,Historical,5512.2,2,2,False
 2025,Bahrain Grand Prix,TSU,Rule-based,5547.0,2,3,False
-2025,Bahrain Grand Prix,TSU,RL (PPO),5564.6,0,1,True
+2025,Bahrain Grand Prix,TSU,RL (PPO),5544.7,1,2,False
 2025,Bahrain Grand Prix,VER,Historical,5513.7,2,3,False
 2025,Bahrain Grand Prix,VER,Rule-based,5547.0,2,3,False
-2025,Bahrain Grand Prix,VER,RL (PPO),5564.6,0,1,True
+2025,Bahrain Grand Prix,VER,RL (PPO),5544.7,1,2,False
 2025,Canadian Grand Prix,ALB,Historical,3748.3,1,2,False
 2025,Canadian Grand Prix,ALB,Rule-based,3748.4,1,2,False
-2025,Canadian Grand Prix,ALB,RL (PPO),3721.0,0,1,True
+2025,Canadian Grand Prix,ALB,RL (PPO),3749.5,1,2,False
 2025,Canadian Grand Prix,ALO,Historical,5446.6,1,2,True
 2025,Canadian Grand Prix,ALO,Rule-based,5438.1,1,2,False
-2025,Canadian Grand Prix,ALO,RL (PPO),5472.8,0,1,True
+2025,Canadian Grand Prix,ALO,RL (PPO),5432.5,1,2,False
 2025,Canadian Grand Prix,ANT,Historical,5405.0,1,2,True
 2025,Canadian Grand Prix,ANT,Rule-based,5406.7,1,2,False
-2025,Canadian Grand Prix,ANT,RL (PPO),5459.6,0,1,True
+2025,Canadian Grand Prix,ANT,RL (PPO),5410.7,1,2,False
 2025,Canadian Grand Prix,BEA,Historical,5423.8,2,3,False
 2025,Canadian Grand Prix,BEA,Rule-based,5395.0,1,2,False
-2025,Canadian Grand Prix,BEA,RL (PPO),5419.9,0,1,True
+2025,Canadian Grand Prix,BEA,RL (PPO),5398.5,1,2,False
 2025,Canadian Grand Prix,BOR,Historical,5358.4,1,2,False
 2025,Canadian Grand Prix,BOR,Rule-based,5391.8,0,1,True
-2025,Canadian Grand Prix,BOR,RL (PPO),5391.8,0,1,True
+2025,Canadian Grand Prix,BOR,RL (PPO),5394.9,2,2,False
 2025,Canadian Grand Prix,COL,Historical,5372.9,1,2,True
 2025,Canadian Grand Prix,COL,Rule-based,5359.8,1,2,False
-2025,Canadian Grand Prix,COL,RL (PPO),5390.4,0,1,True
+2025,Canadian Grand Prix,COL,RL (PPO),5355.1,1,2,False
 2025,Canadian Grand Prix,GAS,Historical,5374.9,1,2,False
 2025,Canadian Grand Prix,GAS,Rule-based,5390.4,0,1,True
-2025,Canadian Grand Prix,GAS,RL (PPO),5390.4,0,1,True
+2025,Canadian Grand Prix,GAS,RL (PPO),5394.5,2,2,False
 2025,Canadian Grand Prix,HAD,Historical,5402.8,2,3,False
 2025,Canadian Grand Prix,HAD,Rule-based,5360.1,1,2,False
-2025,Canadian Grand Prix,HAD,RL (PPO),5391.8,0,1,True
+2025,Canadian Grand Prix,HAD,RL (PPO),5355.5,1,2,False
 2025,Canadian Grand Prix,HAM,Historical,5415.7,1,2,True
 2025,Canadian Grand Prix,HAM,Rule-based,5408.2,1,2,False
-2025,Canadian Grand Prix,HAM,RL (PPO),5460.9,0,1,True
+2025,Canadian Grand Prix,HAM,RL (PPO),5411.9,1,2,False
 2025,Canadian Grand Prix,HUL,Historical,5438.5,1,2,True
 2025,Canadian Grand Prix,HUL,Rule-based,5438.1,1,2,False
-2025,Canadian Grand Prix,HUL,RL (PPO),5472.8,0,1,True
+2025,Canadian Grand Prix,HUL,RL (PPO),5432.5,1,2,False
 2025,Canadian Grand Prix,LAW,Historical,4239.4,1,2,False
 2025,Canadian Grand Prix,LAW,Rule-based,4225.3,0,1,True
-2025,Canadian Grand Prix,LAW,RL (PPO),4225.3,0,1,True
+2025,Canadian Grand Prix,LAW,RL (PPO),4240.7,1,2,False
 2025,Canadian Grand Prix,LEC,Historical,5432.8,1,2,False
 2025,Canadian Grand Prix,LEC,Rule-based,5460.9,0,1,True
-2025,Canadian Grand Prix,LEC,RL (PPO),5460.9,0,1,True
+2025,Canadian Grand Prix,LEC,RL (PPO),5444.1,2,2,False
 2025,Canadian Grand Prix,NOR,Historical,5227.0,2,2,False
 2025,Canadian Grand Prix,NOR,Rule-based,5233.0,0,1,True
-2025,Canadian Grand Prix,NOR,RL (PPO),5233.0,0,1,True
+2025,Canadian Grand Prix,NOR,RL (PPO),5214.1,1,2,False
 2025,Canadian Grand Prix,OCO,Historical,5425.9,1,2,False
 2025,Canadian Grand Prix,OCO,Rule-based,5419.9,0,1,True
-2025,Canadian Grand Prix,OCO,RL (PPO),5419.9,0,1,True
+2025,Canadian Grand Prix,OCO,RL (PPO),5395.8,1,2,False
 2025,Canadian Grand Prix,PIA,Historical,5470.6,2,3,False
 2025,Canadian Grand Prix,PIA,Rule-based,5437.9,1,2,False
-2025,Canadian Grand Prix,PIA,RL (PPO),5472.6,0,1,True
+2025,Canadian Grand Prix,PIA,RL (PPO),5432.3,1,2,False
 2025,Canadian Grand Prix,RUS,Historical,5407.4,1,2,True
 2025,Canadian Grand Prix,RUS,Rule-based,5406.7,1,2,False
-2025,Canadian Grand Prix,RUS,RL (PPO),5459.6,0,1,True
+2025,Canadian Grand Prix,RUS,RL (PPO),5410.7,1,2,False
 2025,Canadian Grand Prix,SAI,Historical,5425.7,1,2,False
 2025,Canadian Grand Prix,SAI,Rule-based,5419.7,0,1,True
-2025,Canadian Grand Prix,SAI,RL (PPO),5419.7,0,1,True
+2025,Canadian Grand Prix,SAI,RL (PPO),5395.6,1,2,False
 2025,Canadian Grand Prix,STR,Historical,5396.8,2,3,False
 2025,Canadian Grand Prix,STR,Rule-based,5391.8,0,1,True
-2025,Canadian Grand Prix,STR,RL (PPO),5391.8,0,1,True
+2025,Canadian Grand Prix,STR,RL (PPO),5394.9,2,2,False
 2025,Canadian Grand Prix,TSU,Historical,5363.7,1,2,False
 2025,Canadian Grand Prix,TSU,Rule-based,5370.6,0,1,True
-2025,Canadian Grand Prix,TSU,RL (PPO),5370.6,0,1,True
+2025,Canadian Grand Prix,TSU,RL (PPO),5359.5,2,2,False
 2025,Canadian Grand Prix,VER,Historical,5407.1,1,2,True
 2025,Canadian Grand Prix,VER,Rule-based,5400.2,1,2,False
-2025,Canadian Grand Prix,VER,RL (PPO),5451.6,0,1,True
+2025,Canadian Grand Prix,VER,RL (PPO),5397.6,1,2,False
 2025,Chinese Grand Prix,ALB,Historical,4700.5,1,2,False
 2025,Chinese Grand Prix,ALB,Rule-based,4700.5,1,2,False
-2025,Chinese Grand Prix,ALB,RL (PPO),4678.2,0,1,True
+2025,Chinese Grand Prix,ALB,RL (PPO),4697.8,1,2,False
 2025,Chinese Grand Prix,ANT,Historical,4627.0,1,2,False
 2025,Chinese Grand Prix,ANT,Rule-based,4623.7,1,2,False
-2025,Chinese Grand Prix,ANT,RL (PPO),4606.0,0,1,True
+2025,Chinese Grand Prix,ANT,RL (PPO),4618.8,1,2,False
 2025,Chinese Grand Prix,BEA,Historical,4700.9,1,2,False
 2025,Chinese Grand Prix,BEA,Rule-based,4679.5,0,1,True
-2025,Chinese Grand Prix,BEA,RL (PPO),4679.5,0,1,True
+2025,Chinese Grand Prix,BEA,RL (PPO),4701.2,1,2,False
 2025,Chinese Grand Prix,BOR,Historical,4568.3,0,1,True
 2025,Chinese Grand Prix,BOR,Rule-based,4568.3,0,1,True
-2025,Chinese Grand Prix,BOR,RL (PPO),4568.3,0,1,True
+2025,Chinese Grand Prix,BOR,RL (PPO),4590.9,1,2,False
 2025,Chinese Grand Prix,DOO,Historical,4673.3,1,2,False
 2025,Chinese Grand Prix,DOO,Rule-based,4671.9,1,2,False
-2025,Chinese Grand Prix,DOO,RL (PPO),4650.6,0,1,True
+2025,Chinese Grand Prix,DOO,RL (PPO),4666.2,1,2,False
 2025,Chinese Grand Prix,GAS,Historical,4672.9,1,2,False
 2025,Chinese Grand Prix,GAS,Rule-based,4671.9,1,2,False
-2025,Chinese Grand Prix,GAS,RL (PPO),4650.6,0,1,True
+2025,Chinese Grand Prix,GAS,RL (PPO),4666.2,1,2,False
 2025,Chinese Grand Prix,HAD,Historical,4674.5,1,2,False
 2025,Chinese Grand Prix,HAD,Rule-based,4672.4,1,2,False
-2025,Chinese Grand Prix,HAD,RL (PPO),4651.6,0,1,True
+2025,Chinese Grand Prix,HAD,RL (PPO),4667.5,1,2,False
 2025,Chinese Grand Prix,HAM,Historical,4628.3,1,2,False
 2025,Chinese Grand Prix,HAM,Rule-based,4626.1,1,2,False
-2025,Chinese Grand Prix,HAM,RL (PPO),4606.7,0,1,True
+2025,Chinese Grand Prix,HAM,RL (PPO),4619.7,1,2,False
 2025,Chinese Grand Prix,HUL,Historical,4592.0,1,2,False
 2025,Chinese Grand Prix,HUL,Rule-based,4589.9,1,2,False
-2025,Chinese Grand Prix,HUL,RL (PPO),4568.2,0,1,True
+2025,Chinese Grand Prix,HUL,RL (PPO),4584.0,1,2,False
 2025,Chinese Grand Prix,LAW,Historical,4622.9,2,2,False
 2025,Chinese Grand Prix,LAW,Rule-based,4601.1,0,1,True
-2025,Chinese Grand Prix,LAW,RL (PPO),4601.1,0,1,True
+2025,Chinese Grand Prix,LAW,RL (PPO),4615.0,1,2,False
 2025,Chinese Grand Prix,LEC,Historical,4626.3,1,2,False
 2025,Chinese Grand Prix,LEC,Rule-based,4626.1,1,2,False
-2025,Chinese Grand Prix,LEC,RL (PPO),4606.7,0,1,True
+2025,Chinese Grand Prix,LEC,RL (PPO),4619.7,1,2,False
 2025,Chinese Grand Prix,NOR,Historical,4658.0,1,2,False
 2025,Chinese Grand Prix,NOR,Rule-based,4655.7,1,2,False
-2025,Chinese Grand Prix,NOR,RL (PPO),4634.3,0,1,True
+2025,Chinese Grand Prix,NOR,RL (PPO),4650.5,1,2,False
 2025,Chinese Grand Prix,OCO,Historical,4700.1,1,2,False
 2025,Chinese Grand Prix,OCO,Rule-based,4701.3,1,2,False
-2025,Chinese Grand Prix,OCO,RL (PPO),4679.5,0,1,True
+2025,Chinese Grand Prix,OCO,RL (PPO),4698.9,1,2,False
 2025,Chinese Grand Prix,PIA,Historical,4657.9,1,2,False
 2025,Chinese Grand Prix,PIA,Rule-based,4655.7,1,2,False
-2025,Chinese Grand Prix,PIA,RL (PPO),4634.3,0,1,True
+2025,Chinese Grand Prix,PIA,RL (PPO),4650.5,1,2,False
 2025,Chinese Grand Prix,RUS,Historical,4627.2,1,2,False
 2025,Chinese Grand Prix,RUS,Rule-based,4623.7,1,2,False
-2025,Chinese Grand Prix,RUS,RL (PPO),4606.0,0,1,True
+2025,Chinese Grand Prix,RUS,RL (PPO),4618.8,1,2,False
 2025,Chinese Grand Prix,SAI,Historical,4700.3,1,2,False
 2025,Chinese Grand Prix,SAI,Rule-based,4700.5,1,2,False
-2025,Chinese Grand Prix,SAI,RL (PPO),4678.2,0,1,True
+2025,Chinese Grand Prix,SAI,RL (PPO),4697.8,1,2,False
 2025,Chinese Grand Prix,STR,Historical,4669.0,1,2,False
 2025,Chinese Grand Prix,STR,Rule-based,4651.7,0,1,True
-2025,Chinese Grand Prix,STR,RL (PPO),4651.7,0,1,True
+2025,Chinese Grand Prix,STR,RL (PPO),4673.2,1,2,False
 2025,Chinese Grand Prix,TSU,Historical,4608.3,2,2,False
 2025,Chinese Grand Prix,TSU,Rule-based,4589.9,1,2,False
-2025,Chinese Grand Prix,TSU,RL (PPO),4568.2,0,1,True
+2025,Chinese Grand Prix,TSU,RL (PPO),4584.0,1,2,False
 2025,Chinese Grand Prix,VER,Historical,4614.7,1,2,False
 2025,Chinese Grand Prix,VER,Rule-based,4614.6,1,2,False
-2025,Chinese Grand Prix,VER,RL (PPO),4599.1,0,1,True
+2025,Chinese Grand Prix,VER,RL (PPO),4611.1,1,2,False
 2025,Dutch Grand Prix,ALB,Historical,5505.6,2,3,False
 2025,Dutch Grand Prix,ALB,Rule-based,5500.2,1,2,False
-2025,Dutch Grand Prix,ALB,RL (PPO),5491.6,0,1,True
+2025,Dutch Grand Prix,ALB,RL (PPO),5500.8,1,2,False
 2025,Dutch Grand Prix,ALO,Historical,5462.4,1,2,True
 2025,Dutch Grand Prix,ALO,Rule-based,5461.3,1,2,False
-2025,Dutch Grand Prix,ALO,RL (PPO),5446.9,0,1,True
+2025,Dutch Grand Prix,ALO,RL (PPO),5453.5,1,2,False
 2025,Dutch Grand Prix,ANT,Historical,5421.1,2,3,False
 2025,Dutch Grand Prix,ANT,Rule-based,5411.5,1,2,False
-2025,Dutch Grand Prix,ANT,RL (PPO),5411.0,0,1,True
+2025,Dutch Grand Prix,ANT,RL (PPO),5412.8,1,2,False
 2025,Dutch Grand Prix,BEA,Historical,5502.9,1,2,False
 2025,Dutch Grand Prix,BEA,Rule-based,5492.4,0,1,True
-2025,Dutch Grand Prix,BEA,RL (PPO),5492.4,0,1,True
+2025,Dutch Grand Prix,BEA,RL (PPO),5521.9,2,2,False
 2025,Dutch Grand Prix,BOR,Historical,5469.7,2,3,False
 2025,Dutch Grand Prix,BOR,Rule-based,5461.3,1,2,False
-2025,Dutch Grand Prix,BOR,RL (PPO),5446.9,0,1,True
+2025,Dutch Grand Prix,BOR,RL (PPO),5453.5,1,2,False
 2025,Dutch Grand Prix,COL,Historical,5481.0,3,3,False
 2025,Dutch Grand Prix,COL,Rule-based,5463.1,2,3,False
-2025,Dutch Grand Prix,COL,RL (PPO),5444.1,0,1,True
+2025,Dutch Grand Prix,COL,RL (PPO),5454.1,1,2,False
 2025,Dutch Grand Prix,GAS,Historical,5459.5,1,2,True
 2025,Dutch Grand Prix,GAS,Rule-based,5459.9,1,2,False
-2025,Dutch Grand Prix,GAS,RL (PPO),5441.8,0,1,True
+2025,Dutch Grand Prix,GAS,RL (PPO),5451.3,1,2,False
 2025,Dutch Grand Prix,HAD,Historical,5464.2,2,3,False
 2025,Dutch Grand Prix,HAD,Rule-based,5461.3,1,2,False
-2025,Dutch Grand Prix,HAD,RL (PPO),5446.9,0,1,True
+2025,Dutch Grand Prix,HAD,RL (PPO),5453.5,1,2,False
 2025,Dutch Grand Prix,HAM,Historical,1735.1,0,1,False
 2025,Dutch Grand Prix,HAM,Rule-based,1735.1,0,1,False
-2025,Dutch Grand Prix,HAM,RL (PPO),1735.1,0,1,False
+2025,Dutch Grand Prix,HAM,RL (PPO),1757.0,1,2,False
 2025,Dutch Grand Prix,HUL,Historical,5467.1,2,3,False
 2025,Dutch Grand Prix,HUL,Rule-based,5463.4,2,3,False
-2025,Dutch Grand Prix,HUL,RL (PPO),5447.3,0,1,True
+2025,Dutch Grand Prix,HUL,RL (PPO),5454.4,1,2,False
 2025,Dutch Grand Prix,LAW,Historical,5459.6,2,3,True
 2025,Dutch Grand Prix,LAW,Rule-based,5461.3,1,2,False
-2025,Dutch Grand Prix,LAW,RL (PPO),5446.9,0,1,True
+2025,Dutch Grand Prix,LAW,RL (PPO),5453.5,1,2,False
 2025,Dutch Grand Prix,LEC,Historical,3948.3,1,2,False
 2025,Dutch Grand Prix,LEC,Rule-based,3950.7,1,2,False
-2025,Dutch Grand Prix,LEC,RL (PPO),3939.8,0,1,True
+2025,Dutch Grand Prix,LEC,RL (PPO),3950.3,1,2,False
 2025,Dutch Grand Prix,NOR,Historical,4945.0,1,2,False
 2025,Dutch Grand Prix,NOR,Rule-based,4940.1,1,2,False
-2025,Dutch Grand Prix,NOR,RL (PPO),4930.3,0,1,True
+2025,Dutch Grand Prix,NOR,RL (PPO),4938.6,1,2,False
 2025,Dutch Grand Prix,OCO,Historical,5502.7,1,2,False
 2025,Dutch Grand Prix,OCO,Rule-based,5492.4,0,1,True
-2025,Dutch Grand Prix,OCO,RL (PPO),5492.4,0,1,True
+2025,Dutch Grand Prix,OCO,RL (PPO),5521.9,2,2,False
 2025,Dutch Grand Prix,PIA,Historical,5455.9,1,2,True
 2025,Dutch Grand Prix,PIA,Rule-based,5455.6,1,2,False
-2025,Dutch Grand Prix,PIA,RL (PPO),5442.8,0,1,True
+2025,Dutch Grand Prix,PIA,RL (PPO),5446.3,1,2,False
 2025,Dutch Grand Prix,RUS,Historical,5422.8,2,3,False
 2025,Dutch Grand Prix,RUS,Rule-based,5411.5,1,2,False
-2025,Dutch Grand Prix,RUS,RL (PPO),5411.0,0,1,True
+2025,Dutch Grand Prix,RUS,RL (PPO),5412.8,1,2,False
 2025,Dutch Grand Prix,SAI,Historical,5513.1,2,3,True
 2025,Dutch Grand Prix,SAI,Rule-based,5500.2,1,2,False
-2025,Dutch Grand Prix,SAI,RL (PPO),5491.6,0,1,True
+2025,Dutch Grand Prix,SAI,RL (PPO),5500.8,1,2,False
 2025,Dutch Grand Prix,STR,Historical,5459.6,1,2,True
 2025,Dutch Grand Prix,STR,Rule-based,5461.3,1,2,False
-2025,Dutch Grand Prix,STR,RL (PPO),5446.9,0,1,True
+2025,Dutch Grand Prix,STR,RL (PPO),5453.5,1,2,False
 2025,Dutch Grand Prix,TSU,Historical,5422.6,2,2,False
 2025,Dutch Grand Prix,TSU,Rule-based,5419.3,2,3,False
-2025,Dutch Grand Prix,TSU,RL (PPO),5410.0,0,1,True
+2025,Dutch Grand Prix,TSU,RL (PPO),5415.9,1,2,False
 2025,Dutch Grand Prix,VER,Historical,5421.7,2,2,False
 2025,Dutch Grand Prix,VER,Rule-based,5419.3,2,3,False
-2025,Dutch Grand Prix,VER,RL (PPO),5410.0,0,1,True
+2025,Dutch Grand Prix,VER,RL (PPO),5415.9,1,2,False
 2025,Emilia Romagna Grand Prix,ALB,Historical,5175.6,1,2,False
 2025,Emilia Romagna Grand Prix,ALB,Rule-based,5177.8,1,2,False
-2025,Emilia Romagna Grand Prix,ALB,RL (PPO),5148.7,0,1,True
+2025,Emilia Romagna Grand Prix,ALB,RL (PPO),5173.2,1,2,False
 2025,Emilia Romagna Grand Prix,ALO,Historical,5175.7,2,2,False
 2025,Emilia Romagna Grand Prix,ALO,Rule-based,5155.4,1,2,False
-2025,Emilia Romagna Grand Prix,ALO,RL (PPO),5136.3,0,1,True
+2025,Emilia Romagna Grand Prix,ALO,RL (PPO),5151.2,1,2,False
 2025,Emilia Romagna Grand Prix,ANT,Historical,3684.6,1,2,False
 2025,Emilia Romagna Grand Prix,ANT,Rule-based,3659.9,0,1,False
-2025,Emilia Romagna Grand Prix,ANT,RL (PPO),3659.9,0,1,False
+2025,Emilia Romagna Grand Prix,ANT,RL (PPO),3686.8,1,2,False
 2025,Emilia Romagna Grand Prix,BEA,Historical,5205.3,2,2,False
 2025,Emilia Romagna Grand Prix,BEA,Rule-based,5150.8,0,1,True
-2025,Emilia Romagna Grand Prix,BEA,RL (PPO),5150.8,0,1,True
+2025,Emilia Romagna Grand Prix,BEA,RL (PPO),5180.3,1,2,False
 2025,Emilia Romagna Grand Prix,BOR,Historical,5175.7,2,2,False
 2025,Emilia Romagna Grand Prix,BOR,Rule-based,5155.4,1,2,False
-2025,Emilia Romagna Grand Prix,BOR,RL (PPO),5136.3,0,1,True
+2025,Emilia Romagna Grand Prix,BOR,RL (PPO),5151.2,1,2,False
 2025,Emilia Romagna Grand Prix,COL,Historical,5157.2,1,2,False
 2025,Emilia Romagna Grand Prix,COL,Rule-based,5156.6,1,2,False
-2025,Emilia Romagna Grand Prix,COL,RL (PPO),5137.5,0,1,True
+2025,Emilia Romagna Grand Prix,COL,RL (PPO),5152.4,1,2,False
 2025,Emilia Romagna Grand Prix,GAS,Historical,5163.9,1,2,True
 2025,Emilia Romagna Grand Prix,GAS,Rule-based,5156.6,1,2,False
-2025,Emilia Romagna Grand Prix,GAS,RL (PPO),5137.5,0,1,True
+2025,Emilia Romagna Grand Prix,GAS,RL (PPO),5152.4,1,2,False
 2025,Emilia Romagna Grand Prix,HAD,Historical,5153.8,1,2,False
 2025,Emilia Romagna Grand Prix,HAD,Rule-based,5155.4,1,2,False
-2025,Emilia Romagna Grand Prix,HAD,RL (PPO),5136.3,0,1,True
+2025,Emilia Romagna Grand Prix,HAD,RL (PPO),5151.2,1,2,False
 2025,Emilia Romagna Grand Prix,HAM,Historical,5128.7,2,2,False
 2025,Emilia Romagna Grand Prix,HAM,Rule-based,5102.7,0,1,True
-2025,Emilia Romagna Grand Prix,HAM,RL (PPO),5102.7,0,1,True
+2025,Emilia Romagna Grand Prix,HAM,RL (PPO),5112.5,1,2,False
 2025,Emilia Romagna Grand Prix,HUL,Historical,5155.5,1,2,False
 2025,Emilia Romagna Grand Prix,HUL,Rule-based,5138.0,0,1,True
-2025,Emilia Romagna Grand Prix,HUL,RL (PPO),5138.0,0,1,True
+2025,Emilia Romagna Grand Prix,HUL,RL (PPO),5157.1,1,2,False
 2025,Emilia Romagna Grand Prix,LAW,Historical,5161.4,1,2,True
 2025,Emilia Romagna Grand Prix,LAW,Rule-based,5155.4,1,2,False
-2025,Emilia Romagna Grand Prix,LAW,RL (PPO),5136.3,0,1,True
+2025,Emilia Romagna Grand Prix,LAW,RL (PPO),5151.2,1,2,False
 2025,Emilia Romagna Grand Prix,LEC,Historical,5110.4,1,2,True
 2025,Emilia Romagna Grand Prix,LEC,Rule-based,5111.0,1,2,False
-2025,Emilia Romagna Grand Prix,LEC,RL (PPO),5101.2,0,1,True
+2025,Emilia Romagna Grand Prix,LEC,RL (PPO),5109.1,1,2,False
 2025,Emilia Romagna Grand Prix,NOR,Historical,5149.4,1,2,False
 2025,Emilia Romagna Grand Prix,NOR,Rule-based,5149.1,1,2,False
-2025,Emilia Romagna Grand Prix,NOR,RL (PPO),5131.4,0,1,True
+2025,Emilia Romagna Grand Prix,NOR,RL (PPO),5146.4,1,2,False
 2025,Emilia Romagna Grand Prix,OCO,Historical,2308.6,0,1,False
 2025,Emilia Romagna Grand Prix,OCO,Rule-based,2308.6,0,1,False
-2025,Emilia Romagna Grand Prix,OCO,RL (PPO),2308.6,0,1,False
+2025,Emilia Romagna Grand Prix,OCO,RL (PPO),2336.5,1,2,False
 2025,Emilia Romagna Grand Prix,PIA,Historical,5154.3,1,2,True
 2025,Emilia Romagna Grand Prix,PIA,Rule-based,5149.1,1,2,False
-2025,Emilia Romagna Grand Prix,PIA,RL (PPO),5131.4,0,1,True
+2025,Emilia Romagna Grand Prix,PIA,RL (PPO),5146.4,1,2,False
 2025,Emilia Romagna Grand Prix,RUS,Historical,5108.5,1,2,True
 2025,Emilia Romagna Grand Prix,RUS,Rule-based,5109.5,1,2,False
-2025,Emilia Romagna Grand Prix,RUS,RL (PPO),5100.2,0,1,True
+2025,Emilia Romagna Grand Prix,RUS,RL (PPO),5107.7,1,2,False
 2025,Emilia Romagna Grand Prix,SAI,Historical,5182.5,1,2,True
 2025,Emilia Romagna Grand Prix,SAI,Rule-based,5177.8,1,2,False
-2025,Emilia Romagna Grand Prix,SAI,RL (PPO),5148.7,0,1,True
+2025,Emilia Romagna Grand Prix,SAI,RL (PPO),5173.2,1,2,False
 2025,Emilia Romagna Grand Prix,STR,Historical,5174.5,2,2,False
 2025,Emilia Romagna Grand Prix,STR,Rule-based,5155.4,1,2,False
-2025,Emilia Romagna Grand Prix,STR,RL (PPO),5136.3,0,1,True
+2025,Emilia Romagna Grand Prix,STR,RL (PPO),5151.2,1,2,False
 2025,Emilia Romagna Grand Prix,TSU,Historical,5108.6,1,2,False
 2025,Emilia Romagna Grand Prix,TSU,Rule-based,5097.3,0,1,True
-2025,Emilia Romagna Grand Prix,TSU,RL (PPO),5097.3,0,1,True
+2025,Emilia Romagna Grand Prix,TSU,RL (PPO),5108.5,1,2,False
 2025,Emilia Romagna Grand Prix,VER,Historical,5108.2,1,2,False
 2025,Emilia Romagna Grand Prix,VER,Rule-based,5108.1,1,2,False
-2025,Emilia Romagna Grand Prix,VER,RL (PPO),5096.9,0,1,True
+2025,Emilia Romagna Grand Prix,VER,RL (PPO),5103.4,1,2,False
 2025,Hungarian Grand Prix,ALB,Historical,5823.4,2,3,False
 2025,Hungarian Grand Prix,ALB,Rule-based,5822.4,2,3,False
-2025,Hungarian Grand Prix,ALB,RL (PPO),5801.4,0,1,True
+2025,Hungarian Grand Prix,ALB,RL (PPO),5811.3,1,2,False
 2025,Hungarian Grand Prix,ALO,Historical,5873.5,1,2,False
 2025,Hungarian Grand Prix,ALO,Rule-based,5873.4,1,2,False
-2025,Hungarian Grand Prix,ALO,RL (PPO),5882.9,0,1,True
+2025,Hungarian Grand Prix,ALO,RL (PPO),5872.9,1,2,False
 2025,Hungarian Grand Prix,ANT,Historical,5713.6,1,2,True
 2025,Hungarian Grand Prix,ANT,Rule-based,5714.0,1,2,False
-2025,Hungarian Grand Prix,ANT,RL (PPO),5725.8,0,1,True
+2025,Hungarian Grand Prix,ANT,RL (PPO),5717.2,1,2,False
 2025,Hungarian Grand Prix,BEA,Historical,4050.8,1,2,False
 2025,Hungarian Grand Prix,BEA,Rule-based,4050.8,1,2,False
-2025,Hungarian Grand Prix,BEA,RL (PPO),4036.3,0,1,True
+2025,Hungarian Grand Prix,BEA,RL (PPO),4052.9,1,2,False
 2025,Hungarian Grand Prix,BOR,Historical,5874.7,1,2,False
 2025,Hungarian Grand Prix,BOR,Rule-based,5873.4,1,2,False
-2025,Hungarian Grand Prix,BOR,RL (PPO),5882.9,0,1,True
+2025,Hungarian Grand Prix,BOR,RL (PPO),5872.9,1,2,False
 2025,Hungarian Grand Prix,COL,Historical,5798.3,1,2,True
 2025,Hungarian Grand Prix,COL,Rule-based,5791.1,1,2,False
-2025,Hungarian Grand Prix,COL,RL (PPO),5799.1,0,1,True
+2025,Hungarian Grand Prix,COL,RL (PPO),5790.5,1,2,False
 2025,Hungarian Grand Prix,GAS,Historical,5792.8,1,2,False
 2025,Hungarian Grand Prix,GAS,Rule-based,5801.2,0,1,True
-2025,Hungarian Grand Prix,GAS,RL (PPO),5801.2,0,1,True
+2025,Hungarian Grand Prix,GAS,RL (PPO),5793.5,1,2,False
 2025,Hungarian Grand Prix,HAD,Historical,5793.3,1,2,False
 2025,Hungarian Grand Prix,HAD,Rule-based,5793.2,1,2,False
-2025,Hungarian Grand Prix,HAD,RL (PPO),5801.3,0,1,True
+2025,Hungarian Grand Prix,HAD,RL (PPO),5792.7,1,2,False
 2025,Hungarian Grand Prix,HAM,Historical,5720.3,1,2,False
 2025,Hungarian Grand Prix,HAM,Rule-based,5729.1,0,1,True
-2025,Hungarian Grand Prix,HAM,RL (PPO),5729.1,0,1,True
+2025,Hungarian Grand Prix,HAM,RL (PPO),5716.7,1,2,False
 2025,Hungarian Grand Prix,HUL,Historical,5807.7,1,2,True
 2025,Hungarian Grand Prix,HUL,Rule-based,5794.5,2,3,False
-2025,Hungarian Grand Prix,HUL,RL (PPO),5801.4,0,1,True
+2025,Hungarian Grand Prix,HUL,RL (PPO),5792.5,1,2,False
 2025,Hungarian Grand Prix,LAW,Historical,5874.7,1,2,False
 2025,Hungarian Grand Prix,LAW,Rule-based,5873.4,1,2,False
-2025,Hungarian Grand Prix,LAW,RL (PPO),5882.9,0,1,True
+2025,Hungarian Grand Prix,LAW,RL (PPO),5872.9,1,2,False
 2025,Hungarian Grand Prix,LEC,Historical,5797.3,1,2,True
 2025,Hungarian Grand Prix,LEC,Rule-based,5799.9,1,2,False
-2025,Hungarian Grand Prix,LEC,RL (PPO),5813.3,0,1,True
+2025,Hungarian Grand Prix,LEC,RL (PPO),5801.5,1,2,False
 2025,Hungarian Grand Prix,NOR,Historical,5856.1,1,2,False
 2025,Hungarian Grand Prix,NOR,Rule-based,5854.7,1,2,False
-2025,Hungarian Grand Prix,NOR,RL (PPO),5867.9,0,1,True
+2025,Hungarian Grand Prix,NOR,RL (PPO),5858.3,1,2,False
 2025,Hungarian Grand Prix,OCO,Historical,5822.3,1,2,True
 2025,Hungarian Grand Prix,OCO,Rule-based,5819.1,1,2,False
-2025,Hungarian Grand Prix,OCO,RL (PPO),5803.9,0,1,True
+2025,Hungarian Grand Prix,OCO,RL (PPO),5814.4,1,2,False
 2025,Hungarian Grand Prix,PIA,Historical,5856.2,1,2,True
 2025,Hungarian Grand Prix,PIA,Rule-based,5854.7,1,2,False
-2025,Hungarian Grand Prix,PIA,RL (PPO),5867.9,0,1,True
+2025,Hungarian Grand Prix,PIA,RL (PPO),5858.3,1,2,False
 2025,Hungarian Grand Prix,RUS,Historical,5794.9,1,2,True
 2025,Hungarian Grand Prix,RUS,Rule-based,5798.5,1,2,False
-2025,Hungarian Grand Prix,RUS,RL (PPO),5810.1,0,1,True
+2025,Hungarian Grand Prix,RUS,RL (PPO),5799.9,1,2,False
 2025,Hungarian Grand Prix,SAI,Historical,5822.9,2,3,False
 2025,Hungarian Grand Prix,SAI,Rule-based,5822.4,2,3,False
-2025,Hungarian Grand Prix,SAI,RL (PPO),5801.4,0,1,True
+2025,Hungarian Grand Prix,SAI,RL (PPO),5811.3,1,2,False
 2025,Hungarian Grand Prix,STR,Historical,5872.8,1,2,False
 2025,Hungarian Grand Prix,STR,Rule-based,5873.4,1,2,False
-2025,Hungarian Grand Prix,STR,RL (PPO),5882.9,0,1,True
+2025,Hungarian Grand Prix,STR,RL (PPO),5872.9,1,2,False
 2025,Hungarian Grand Prix,TSU,Historical,5698.8,2,3,False
 2025,Hungarian Grand Prix,TSU,Rule-based,5704.6,1,2,False
-2025,Hungarian Grand Prix,TSU,RL (PPO),5717.3,0,1,True
+2025,Hungarian Grand Prix,TSU,RL (PPO),5704.9,1,2,False
 2025,Hungarian Grand Prix,VER,Historical,5787.0,1,2,True
 2025,Hungarian Grand Prix,VER,Rule-based,5786.8,1,2,False
-2025,Hungarian Grand Prix,VER,RL (PPO),5801.4,0,1,True
+2025,Hungarian Grand Prix,VER,RL (PPO),5787.4,1,2,False
 2025,Italian Grand Prix,ALB,Historical,4570.6,1,2,False
 2025,Italian Grand Prix,ALB,Rule-based,4553.6,0,1,True
-2025,Italian Grand Prix,ALB,RL (PPO),4553.6,0,1,True
+2025,Italian Grand Prix,ALB,RL (PPO),4563.1,1,2,False
 2025,Italian Grand Prix,ALO,Historical,2039.0,1,2,False
 2025,Italian Grand Prix,ALO,Rule-based,2015.4,0,1,False
-2025,Italian Grand Prix,ALO,RL (PPO),2015.4,0,1,False
+2025,Italian Grand Prix,ALO,RL (PPO),2040.8,1,2,False
 2025,Italian Grand Prix,ANT,Historical,4512.5,1,2,False
 2025,Italian Grand Prix,ANT,Rule-based,4511.7,1,2,False
-2025,Italian Grand Prix,ANT,RL (PPO),4509.0,0,1,True
+2025,Italian Grand Prix,ANT,RL (PPO),4520.3,1,2,False
 2025,Italian Grand Prix,BEA,Historical,4561.0,1,2,False
 2025,Italian Grand Prix,BEA,Rule-based,4565.1,1,2,False
-2025,Italian Grand Prix,BEA,RL (PPO),4554.0,0,1,True
+2025,Italian Grand Prix,BEA,RL (PPO),4570.4,1,2,False
 2025,Italian Grand Prix,BOR,Historical,4551.9,1,2,False
 2025,Italian Grand Prix,BOR,Rule-based,4555.2,1,2,False
-2025,Italian Grand Prix,BOR,RL (PPO),4544.1,0,1,True
+2025,Italian Grand Prix,BOR,RL (PPO),4557.0,1,2,False
 2025,Italian Grand Prix,COL,Historical,4469.2,1,2,False
 2025,Italian Grand Prix,COL,Rule-based,4467.4,1,2,False
-2025,Italian Grand Prix,COL,RL (PPO),4455.2,0,1,True
+2025,Italian Grand Prix,COL,RL (PPO),4469.6,1,2,False
 2025,Italian Grand Prix,GAS,Historical,4478.0,1,2,False
 2025,Italian Grand Prix,GAS,Rule-based,4455.3,0,1,True
-2025,Italian Grand Prix,GAS,RL (PPO),4455.3,0,1,True
+2025,Italian Grand Prix,GAS,RL (PPO),4465.8,1,2,False
 2025,Italian Grand Prix,HAD,Historical,4556.6,1,2,False
 2025,Italian Grand Prix,HAD,Rule-based,4544.1,0,1,True
-2025,Italian Grand Prix,HAD,RL (PPO),4544.1,0,1,True
+2025,Italian Grand Prix,HAD,RL (PPO),4554.0,1,2,False
 2025,Italian Grand Prix,HAM,Historical,4519.6,1,2,False
 2025,Italian Grand Prix,HAM,Rule-based,4520.2,1,2,False
-2025,Italian Grand Prix,HAM,RL (PPO),4509.5,0,1,True
+2025,Italian Grand Prix,HAM,RL (PPO),4521.0,1,2,False
 2025,Italian Grand Prix,LAW,Historical,4546.2,1,2,False
 2025,Italian Grand Prix,LAW,Rule-based,4554.0,1,2,False
-2025,Italian Grand Prix,LAW,RL (PPO),4544.1,0,1,True
+2025,Italian Grand Prix,LAW,RL (PPO),4552.8,1,2,False
 2025,Italian Grand Prix,LEC,Historical,4515.7,1,2,False
 2025,Italian Grand Prix,LEC,Rule-based,4520.2,1,2,False
-2025,Italian Grand Prix,LEC,RL (PPO),4509.5,0,1,True
+2025,Italian Grand Prix,LEC,RL (PPO),4521.0,1,2,False
 2025,Italian Grand Prix,NOR,Historical,4543.1,1,2,False
 2025,Italian Grand Prix,NOR,Rule-based,4535.0,1,2,False
-2025,Italian Grand Prix,NOR,RL (PPO),4525.2,0,1,True
+2025,Italian Grand Prix,NOR,RL (PPO),4537.7,1,2,False
 2025,Italian Grand Prix,OCO,Historical,4490.9,1,2,False
 2025,Italian Grand Prix,OCO,Rule-based,4465.9,0,1,True
-2025,Italian Grand Prix,OCO,RL (PPO),4465.9,0,1,True
+2025,Italian Grand Prix,OCO,RL (PPO),4475.7,1,2,False
 2025,Italian Grand Prix,PIA,Historical,4542.2,1,2,False
 2025,Italian Grand Prix,PIA,Rule-based,4535.0,1,2,False
-2025,Italian Grand Prix,PIA,RL (PPO),4525.2,0,1,True
+2025,Italian Grand Prix,PIA,RL (PPO),4537.7,1,2,False
 2025,Italian Grand Prix,RUS,Historical,4511.7,1,2,False
 2025,Italian Grand Prix,RUS,Rule-based,4511.7,1,2,False
-2025,Italian Grand Prix,RUS,RL (PPO),4509.0,0,1,True
+2025,Italian Grand Prix,RUS,RL (PPO),4520.3,1,2,False
 2025,Italian Grand Prix,SAI,Historical,4565.9,1,2,False
 2025,Italian Grand Prix,SAI,Rule-based,4564.7,1,2,False
-2025,Italian Grand Prix,SAI,RL (PPO),4553.6,0,1,True
+2025,Italian Grand Prix,SAI,RL (PPO),4570.0,1,2,False
 2025,Italian Grand Prix,STR,Historical,4478.5,1,2,False
 2025,Italian Grand Prix,STR,Rule-based,4455.7,0,1,True
-2025,Italian Grand Prix,STR,RL (PPO),4455.7,0,1,True
+2025,Italian Grand Prix,STR,RL (PPO),4466.1,1,2,False
 2025,Italian Grand Prix,TSU,Historical,4501.7,1,2,False
 2025,Italian Grand Prix,TSU,Rule-based,4507.8,1,2,False
-2025,Italian Grand Prix,TSU,RL (PPO),4505.1,0,1,True
+2025,Italian Grand Prix,TSU,RL (PPO),4516.5,1,2,False
 2025,Italian Grand Prix,VER,Historical,4514.0,1,2,False
 2025,Italian Grand Prix,VER,Rule-based,4507.8,1,2,False
-2025,Italian Grand Prix,VER,RL (PPO),4505.1,0,1,True
+2025,Italian Grand Prix,VER,RL (PPO),4516.5,1,2,False
 2025,Japanese Grand Prix,ALB,Historical,5071.6,1,2,False
 2025,Japanese Grand Prix,ALB,Rule-based,5075.7,1,2,False
-2025,Japanese Grand Prix,ALB,RL (PPO),5079.7,0,1,True
+2025,Japanese Grand Prix,ALB,RL (PPO),5085.3,1,2,False
 2025,Japanese Grand Prix,ALO,Historical,5048.5,1,2,False
 2025,Japanese Grand Prix,ALO,Rule-based,5052.0,1,2,False
-2025,Japanese Grand Prix,ALO,RL (PPO),5060.5,0,1,True
+2025,Japanese Grand Prix,ALO,RL (PPO),5067.4,1,2,False
 2025,Japanese Grand Prix,ANT,Historical,5007.3,1,2,False
 2025,Japanese Grand Prix,ANT,Rule-based,5005.0,1,2,False
-2025,Japanese Grand Prix,ANT,RL (PPO),4994.4,0,1,True
+2025,Japanese Grand Prix,ANT,RL (PPO),5011.4,1,2,False
 2025,Japanese Grand Prix,BEA,Historical,5070.3,1,2,False
 2025,Japanese Grand Prix,BEA,Rule-based,5075.7,1,2,False
-2025,Japanese Grand Prix,BEA,RL (PPO),5079.7,0,1,True
+2025,Japanese Grand Prix,BEA,RL (PPO),5085.3,1,2,False
 2025,Japanese Grand Prix,BOR,Historical,5057.3,1,2,False
 2025,Japanese Grand Prix,BOR,Rule-based,5060.6,0,1,True
-2025,Japanese Grand Prix,BOR,RL (PPO),5060.6,0,1,True
+2025,Japanese Grand Prix,BOR,RL (PPO),5049.8,1,2,False
 2025,Japanese Grand Prix,DOO,Historical,5042.1,1,2,False
 2025,Japanese Grand Prix,DOO,Rule-based,5048.8,1,2,False
-2025,Japanese Grand Prix,DOO,RL (PPO),5060.9,0,1,True
+2025,Japanese Grand Prix,DOO,RL (PPO),5061.1,1,2,False
 2025,Japanese Grand Prix,GAS,Historical,5048.8,1,2,False
 2025,Japanese Grand Prix,GAS,Rule-based,5052.6,1,2,False
-2025,Japanese Grand Prix,GAS,RL (PPO),5060.9,0,1,True
+2025,Japanese Grand Prix,GAS,RL (PPO),5067.6,1,2,False
 2025,Japanese Grand Prix,HAD,Historical,5049.8,1,2,False
 2025,Japanese Grand Prix,HAD,Rule-based,5052.0,1,2,False
-2025,Japanese Grand Prix,HAD,RL (PPO),5060.5,0,1,True
+2025,Japanese Grand Prix,HAD,RL (PPO),5067.4,1,2,False
 2025,Japanese Grand Prix,HAM,Historical,5012.0,1,2,False
 2025,Japanese Grand Prix,HAM,Rule-based,5006.6,0,1,True
-2025,Japanese Grand Prix,HAM,RL (PPO),5006.6,0,1,True
+2025,Japanese Grand Prix,HAM,RL (PPO),5010.7,1,2,False
 2025,Japanese Grand Prix,HUL,Historical,5046.2,1,2,False
 2025,Japanese Grand Prix,HUL,Rule-based,5052.0,1,2,False
-2025,Japanese Grand Prix,HUL,RL (PPO),5060.5,0,1,True
+2025,Japanese Grand Prix,HUL,RL (PPO),5067.4,1,2,False
 2025,Japanese Grand Prix,LAW,Historical,5059.7,1,2,False
 2025,Japanese Grand Prix,LAW,Rule-based,5052.0,1,2,False
-2025,Japanese Grand Prix,LAW,RL (PPO),5060.5,0,1,True
+2025,Japanese Grand Prix,LAW,RL (PPO),5067.4,1,2,False
 2025,Japanese Grand Prix,LEC,Historical,5008.1,1,2,False
 2025,Japanese Grand Prix,LEC,Rule-based,5011.6,1,2,False
-2025,Japanese Grand Prix,LEC,RL (PPO),5006.6,0,1,True
+2025,Japanese Grand Prix,LEC,RL (PPO),5020.1,1,2,False
 2025,Japanese Grand Prix,NOR,Historical,5030.3,1,2,False
 2025,Japanese Grand Prix,NOR,Rule-based,5036.8,1,2,False
-2025,Japanese Grand Prix,NOR,RL (PPO),5041.1,0,1,True
+2025,Japanese Grand Prix,NOR,RL (PPO),5050.8,1,2,False
 2025,Japanese Grand Prix,OCO,Historical,5080.6,1,2,False
 2025,Japanese Grand Prix,OCO,Rule-based,5079.7,0,1,True
-2025,Japanese Grand Prix,OCO,RL (PPO),5079.7,0,1,True
+2025,Japanese Grand Prix,OCO,RL (PPO),5075.3,1,2,False
 2025,Japanese Grand Prix,PIA,Historical,5029.0,1,2,False
 2025,Japanese Grand Prix,PIA,Rule-based,5036.8,1,2,False
-2025,Japanese Grand Prix,PIA,RL (PPO),5041.1,0,1,True
+2025,Japanese Grand Prix,PIA,RL (PPO),5050.8,1,2,False
 2025,Japanese Grand Prix,RUS,Historical,5000.2,1,2,False
 2025,Japanese Grand Prix,RUS,Rule-based,5005.0,1,2,False
-2025,Japanese Grand Prix,RUS,RL (PPO),4994.4,0,1,True
+2025,Japanese Grand Prix,RUS,RL (PPO),5011.4,1,2,False
 2025,Japanese Grand Prix,SAI,Historical,5081.1,1,2,False
 2025,Japanese Grand Prix,SAI,Rule-based,5075.7,1,2,False
-2025,Japanese Grand Prix,SAI,RL (PPO),5079.7,0,1,True
+2025,Japanese Grand Prix,SAI,RL (PPO),5085.3,1,2,False
 2025,Japanese Grand Prix,STR,Historical,4955.8,2,3,False
 2025,Japanese Grand Prix,STR,Rule-based,4958.5,1,2,False
-2025,Japanese Grand Prix,STR,RL (PPO),4969.6,0,1,True
+2025,Japanese Grand Prix,STR,RL (PPO),4971.1,1,2,False
 2025,Japanese Grand Prix,TSU,Historical,5001.6,1,2,False
 2025,Japanese Grand Prix,TSU,Rule-based,5003.9,1,2,False
-2025,Japanese Grand Prix,TSU,RL (PPO),4993.6,0,1,True
+2025,Japanese Grand Prix,TSU,RL (PPO),5010.7,1,2,False
 2025,Japanese Grand Prix,VER,Historical,5000.5,1,2,False
 2025,Japanese Grand Prix,VER,Rule-based,5003.9,1,2,False
-2025,Japanese Grand Prix,VER,RL (PPO),4993.6,0,1,True
+2025,Japanese Grand Prix,VER,RL (PPO),5010.7,1,2,False
 2025,Las Vegas Grand Prix,ALB,Historical,3438.1,3,2,False
 2025,Las Vegas Grand Prix,ALB,Rule-based,3398.8,0,1,False
-2025,Las Vegas Grand Prix,ALB,RL (PPO),3398.8,0,1,False
+2025,Las Vegas Grand Prix,ALB,RL (PPO),3402.6,1,2,False
 2025,Las Vegas Grand Prix,ALO,Historical,4844.2,1,2,False
 2025,Las Vegas Grand Prix,ALO,Rule-based,4852.5,1,2,False
-2025,Las Vegas Grand Prix,ALO,RL (PPO),4849.6,0,1,True
+2025,Las Vegas Grand Prix,ALO,RL (PPO),4865.2,1,2,False
 2025,Las Vegas Grand Prix,ANT,Historical,4783.9,1,2,True
 2025,Las Vegas Grand Prix,ANT,Rule-based,4804.0,1,2,False
-2025,Las Vegas Grand Prix,ANT,RL (PPO),4798.7,0,1,True
+2025,Las Vegas Grand Prix,ANT,RL (PPO),4811.7,1,2,False
 2025,Las Vegas Grand Prix,BEA,Historical,4848.0,1,2,False
 2025,Las Vegas Grand Prix,BEA,Rule-based,4857.6,1,2,False
-2025,Las Vegas Grand Prix,BEA,RL (PPO),4854.9,0,1,True
+2025,Las Vegas Grand Prix,BEA,RL (PPO),4869.4,1,2,False
 2025,Las Vegas Grand Prix,COL,Historical,4753.4,1,2,False
 2025,Las Vegas Grand Prix,COL,Rule-based,4751.2,0,1,True
-2025,Las Vegas Grand Prix,COL,RL (PPO),4751.2,0,1,True
+2025,Las Vegas Grand Prix,COL,RL (PPO),4753.3,1,2,False
 2025,Las Vegas Grand Prix,GAS,Historical,4840.7,1,2,True
 2025,Las Vegas Grand Prix,GAS,Rule-based,4851.1,1,2,False
-2025,Las Vegas Grand Prix,GAS,RL (PPO),4848.1,0,1,True
+2025,Las Vegas Grand Prix,GAS,RL (PPO),4863.7,1,2,False
 2025,Las Vegas Grand Prix,HAD,Historical,4848.4,1,2,False
 2025,Las Vegas Grand Prix,HAD,Rule-based,4852.5,1,2,False
-2025,Las Vegas Grand Prix,HAD,RL (PPO),4849.6,0,1,True
+2025,Las Vegas Grand Prix,HAD,RL (PPO),4865.2,1,2,False
 2025,Las Vegas Grand Prix,HAM,Historical,4817.8,1,2,False
 2025,Las Vegas Grand Prix,HAM,Rule-based,4814.1,0,1,True
-2025,Las Vegas Grand Prix,HAM,RL (PPO),4814.1,0,1,True
+2025,Las Vegas Grand Prix,HAM,RL (PPO),4814.3,1,2,False
 2025,Las Vegas Grand Prix,HUL,Historical,4856.1,1,2,False
 2025,Las Vegas Grand Prix,HUL,Rule-based,4849.7,0,1,True
-2025,Las Vegas Grand Prix,HUL,RL (PPO),4849.7,0,1,True
+2025,Las Vegas Grand Prix,HUL,RL (PPO),4852.0,1,2,False
 2025,Las Vegas Grand Prix,LAW,Historical,4748.3,1,2,True
 2025,Las Vegas Grand Prix,LAW,Rule-based,4756.3,1,2,False
-2025,Las Vegas Grand Prix,LAW,RL (PPO),4752.1,0,1,True
+2025,Las Vegas Grand Prix,LAW,RL (PPO),4768.9,1,2,False
 2025,Las Vegas Grand Prix,LEC,Historical,4814.7,1,2,False
 2025,Las Vegas Grand Prix,LEC,Rule-based,4816.0,1,2,False
-2025,Las Vegas Grand Prix,LEC,RL (PPO),4814.1,0,1,True
+2025,Las Vegas Grand Prix,LEC,RL (PPO),4830.4,1,2,False
 2025,Las Vegas Grand Prix,NOR,Historical,4837.4,1,2,False
 2025,Las Vegas Grand Prix,NOR,Rule-based,4839.9,1,2,False
-2025,Las Vegas Grand Prix,NOR,RL (PPO),4837.9,0,1,True
+2025,Las Vegas Grand Prix,NOR,RL (PPO),4852.8,1,2,False
 2025,Las Vegas Grand Prix,OCO,Historical,4857.6,1,2,False
 2025,Las Vegas Grand Prix,OCO,Rule-based,4857.6,1,2,False
-2025,Las Vegas Grand Prix,OCO,RL (PPO),4854.9,0,1,True
+2025,Las Vegas Grand Prix,OCO,RL (PPO),4869.4,1,2,False
 2025,Las Vegas Grand Prix,PIA,Historical,4836.9,1,2,False
 2025,Las Vegas Grand Prix,PIA,Rule-based,4839.9,1,2,False
-2025,Las Vegas Grand Prix,PIA,RL (PPO),4837.9,0,1,True
+2025,Las Vegas Grand Prix,PIA,RL (PPO),4852.8,1,2,False
 2025,Las Vegas Grand Prix,RUS,Historical,4797.1,1,2,False
 2025,Las Vegas Grand Prix,RUS,Rule-based,4803.6,1,2,False
-2025,Las Vegas Grand Prix,RUS,RL (PPO),4798.7,0,1,True
+2025,Las Vegas Grand Prix,RUS,RL (PPO),4817.6,1,2,False
 2025,Las Vegas Grand Prix,SAI,Historical,4853.8,1,2,False
 2025,Las Vegas Grand Prix,SAI,Rule-based,4857.5,1,2,False
-2025,Las Vegas Grand Prix,SAI,RL (PPO),4854.9,0,1,True
+2025,Las Vegas Grand Prix,SAI,RL (PPO),4869.3,1,2,False
 2025,Las Vegas Grand Prix,TSU,Historical,4799.0,1,2,False
 2025,Las Vegas Grand Prix,TSU,Rule-based,4794.6,0,1,True
-2025,Las Vegas Grand Prix,TSU,RL (PPO),4794.6,0,1,True
+2025,Las Vegas Grand Prix,TSU,RL (PPO),4799.6,1,2,False
 2025,Las Vegas Grand Prix,VER,Historical,4799.3,1,2,False
 2025,Las Vegas Grand Prix,VER,Rule-based,4798.6,1,2,False
-2025,Las Vegas Grand Prix,VER,RL (PPO),4793.1,0,1,True
+2025,Las Vegas Grand Prix,VER,RL (PPO),4811.9,1,2,False
 2025,Mexico City Grand Prix,ALB,Historical,5917.8,1,2,False
 2025,Mexico City Grand Prix,ALB,Rule-based,5907.9,0,1,True
-2025,Mexico City Grand Prix,ALB,RL (PPO),5907.9,0,1,True
+2025,Mexico City Grand Prix,ALB,RL (PPO),5915.1,1,2,False
 2025,Mexico City Grand Prix,ALO,Historical,2868.6,1,2,False
 2025,Mexico City Grand Prix,ALO,Rule-based,2870.2,1,2,False
-2025,Mexico City Grand Prix,ALO,RL (PPO),2853.3,0,1,False
+2025,Mexico City Grand Prix,ALO,RL (PPO),2875.7,1,2,False
 2025,Mexico City Grand Prix,ANT,Historical,5932.4,2,2,False
 2025,Mexico City Grand Prix,ANT,Rule-based,5930.1,2,3,False
-2025,Mexico City Grand Prix,ANT,RL (PPO),5927.2,0,1,True
+2025,Mexico City Grand Prix,ANT,RL (PPO),5918.8,1,2,False
 2025,Mexico City Grand Prix,BEA,Historical,6015.5,2,2,False
 2025,Mexico City Grand Prix,BEA,Rule-based,6013.7,2,3,False
-2025,Mexico City Grand Prix,BEA,RL (PPO),6000.2,0,1,True
+2025,Mexico City Grand Prix,BEA,RL (PPO),6006.0,1,2,False
 2025,Mexico City Grand Prix,BOR,Historical,5966.2,1,2,False
 2025,Mexico City Grand Prix,BOR,Rule-based,5971.2,1,2,False
-2025,Mexico City Grand Prix,BOR,RL (PPO),5968.3,0,1,True
+2025,Mexico City Grand Prix,BOR,RL (PPO),5966.3,1,2,False
 2025,Mexico City Grand Prix,COL,Historical,5882.9,1,2,False
 2025,Mexico City Grand Prix,COL,Rule-based,5884.2,0,1,True
-2025,Mexico City Grand Prix,COL,RL (PPO),5884.2,0,1,True
+2025,Mexico City Grand Prix,COL,RL (PPO),5886.8,1,2,False
 2025,Mexico City Grand Prix,GAS,Historical,5885.2,1,2,True
 2025,Mexico City Grand Prix,GAS,Rule-based,5888.5,1,2,False
-2025,Mexico City Grand Prix,GAS,RL (PPO),5884.1,0,1,True
+2025,Mexico City Grand Prix,GAS,RL (PPO),5883.6,1,2,False
 2025,Mexico City Grand Prix,HAD,Historical,5885.2,1,2,True
 2025,Mexico City Grand Prix,HAD,Rule-based,5888.6,1,2,False
-2025,Mexico City Grand Prix,HAD,RL (PPO),5884.3,0,1,True
+2025,Mexico City Grand Prix,HAD,RL (PPO),5883.8,1,2,False
 2025,Mexico City Grand Prix,HAM,Historical,5930.3,2,2,False
 2025,Mexico City Grand Prix,HAM,Rule-based,5929.9,2,3,False
-2025,Mexico City Grand Prix,HAM,RL (PPO),5926.6,0,1,True
+2025,Mexico City Grand Prix,HAM,RL (PPO),5917.9,1,2,False
 2025,Mexico City Grand Prix,HUL,Historical,2085.0,0,1,False
 2025,Mexico City Grand Prix,HUL,Rule-based,2085.0,0,1,False
-2025,Mexico City Grand Prix,HUL,RL (PPO),2085.0,0,1,False
+2025,Mexico City Grand Prix,HUL,RL (PPO),2107.3,1,2,False
 2025,Mexico City Grand Prix,LAW,Historical,376.5,1,2,False
 2025,Mexico City Grand Prix,LAW,Rule-based,353.9,0,1,False
 2025,Mexico City Grand Prix,LAW,RL (PPO),353.9,0,1,False
 2025,Mexico City Grand Prix,LEC,Historical,5918.0,1,2,False
 2025,Mexico City Grand Prix,LEC,Rule-based,5929.9,2,3,False
-2025,Mexico City Grand Prix,LEC,RL (PPO),5926.6,0,1,True
+2025,Mexico City Grand Prix,LEC,RL (PPO),5917.9,1,2,False
 2025,Mexico City Grand Prix,NOR,Historical,5957.4,1,2,False
 2025,Mexico City Grand Prix,NOR,Rule-based,5970.8,2,3,False
-2025,Mexico City Grand Prix,NOR,RL (PPO),5959.2,0,1,True
+2025,Mexico City Grand Prix,NOR,RL (PPO),5957.4,1,2,False
 2025,Mexico City Grand Prix,OCO,Historical,6001.8,1,2,True
 2025,Mexico City Grand Prix,OCO,Rule-based,6013.7,2,3,False
-2025,Mexico City Grand Prix,OCO,RL (PPO),6000.2,0,1,True
+2025,Mexico City Grand Prix,OCO,RL (PPO),6006.0,1,2,False
 2025,Mexico City Grand Prix,PIA,Historical,5970.7,2,2,False
 2025,Mexico City Grand Prix,PIA,Rule-based,5970.8,2,3,False
-2025,Mexico City Grand Prix,PIA,RL (PPO),5959.2,0,1,True
+2025,Mexico City Grand Prix,PIA,RL (PPO),5957.4,1,2,False
 2025,Mexico City Grand Prix,RUS,Historical,5930.5,2,2,False
 2025,Mexico City Grand Prix,RUS,Rule-based,5930.1,2,3,False
-2025,Mexico City Grand Prix,RUS,RL (PPO),5927.2,0,1,True
+2025,Mexico City Grand Prix,RUS,RL (PPO),5918.8,1,2,False
 2025,Mexico City Grand Prix,SAI,Historical,5750.2,1,2,True
 2025,Mexico City Grand Prix,SAI,Rule-based,5754.2,1,2,False
-2025,Mexico City Grand Prix,SAI,RL (PPO),5746.9,0,1,True
+2025,Mexico City Grand Prix,SAI,RL (PPO),5757.4,1,2,False
 2025,Mexico City Grand Prix,STR,Historical,5899.7,2,2,False
 2025,Mexico City Grand Prix,STR,Rule-based,5898.6,2,3,False
-2025,Mexico City Grand Prix,STR,RL (PPO),5884.3,0,1,True
+2025,Mexico City Grand Prix,STR,RL (PPO),5885.5,1,2,False
 2025,Mexico City Grand Prix,TSU,Historical,5911.9,1,2,True
 2025,Mexico City Grand Prix,TSU,Rule-based,5910.8,1,2,False
-2025,Mexico City Grand Prix,TSU,RL (PPO),5919.4,0,1,True
+2025,Mexico City Grand Prix,TSU,RL (PPO),5913.5,1,2,False
 2025,Mexico City Grand Prix,VER,Historical,5912.4,1,2,False
 2025,Mexico City Grand Prix,VER,Rule-based,5910.8,1,2,False
-2025,Mexico City Grand Prix,VER,RL (PPO),5919.4,0,1,True
+2025,Mexico City Grand Prix,VER,RL (PPO),5913.5,1,2,False
 2025,Miami Grand Prix,BOR,Historical,2857.2,1,2,False
 2025,Miami Grand Prix,BOR,Rule-based,2844.0,0,1,False
-2025,Miami Grand Prix,BOR,RL (PPO),2844.0,0,1,False
+2025,Miami Grand Prix,BOR,RL (PPO),2865.0,1,2,False
 2025,Miami Grand Prix,HAD,Historical,5289.7,1,2,False
 2025,Miami Grand Prix,HAD,Rule-based,5291.3,1,2,False
-2025,Miami Grand Prix,HAD,RL (PPO),5283.4,0,1,True
+2025,Miami Grand Prix,HAD,RL (PPO),5295.5,1,2,False
 2025,Miami Grand Prix,OCO,Historical,5313.7,1,2,False
 2025,Miami Grand Prix,OCO,Rule-based,5315.7,1,2,False
-2025,Miami Grand Prix,OCO,RL (PPO),5305.9,0,1,True
+2025,Miami Grand Prix,OCO,RL (PPO),5316.2,1,2,False
 2025,Miami Grand Prix,STR,Historical,5196.0,1,2,False
 2025,Miami Grand Prix,STR,Rule-based,5198.5,1,2,False
-2025,Miami Grand Prix,STR,RL (PPO),5189.9,0,1,True
+2025,Miami Grand Prix,STR,RL (PPO),5202.7,1,2,False
 2025,Monaco Grand Prix,ALB,Historical,5899.6,1,2,False
 2025,Monaco Grand Prix,ALB,Rule-based,5904.6,1,2,True
-2025,Monaco Grand Prix,ALB,RL (PPO),5961.8,0,1,True
+2025,Monaco Grand Prix,ALB,RL (PPO),5923.5,2,2,False
 2025,Monaco Grand Prix,ALO,Historical,2928.9,0,1,False
 2025,Monaco Grand Prix,ALO,Rule-based,2928.9,0,1,False
-2025,Monaco Grand Prix,ALO,RL (PPO),2928.9,0,1,False
+2025,Monaco Grand Prix,ALO,RL (PPO),2948.6,1,2,False
 2025,Monaco Grand Prix,ANT,Historical,5865.9,2,2,False
 2025,Monaco Grand Prix,ANT,Rule-based,5833.6,0,1,True
-2025,Monaco Grand Prix,ANT,RL (PPO),5833.6,0,1,True
+2025,Monaco Grand Prix,ANT,RL (PPO),5766.1,2,2,False
 2025,Monaco Grand Prix,BEA,Historical,5933.9,1,2,True
 2025,Monaco Grand Prix,BEA,Rule-based,5962.7,0,1,True
-2025,Monaco Grand Prix,BEA,RL (PPO),5962.7,0,1,True
+2025,Monaco Grand Prix,BEA,RL (PPO),5924.7,2,2,False
 2025,Monaco Grand Prix,BOR,Historical,5861.2,2,3,True
 2025,Monaco Grand Prix,BOR,Rule-based,5947.2,0,1,True
-2025,Monaco Grand Prix,BOR,RL (PPO),5947.2,0,1,True
+2025,Monaco Grand Prix,BOR,RL (PPO),5872.3,2,2,False
 2025,Monaco Grand Prix,COL,Historical,5900.6,1,2,True
 2025,Monaco Grand Prix,COL,Rule-based,5953.6,0,1,True
-2025,Monaco Grand Prix,COL,RL (PPO),5953.6,0,1,True
+2025,Monaco Grand Prix,COL,RL (PPO),5879.6,2,2,False
 2025,Monaco Grand Prix,GAS,Historical,590.0,0,1,False
 2025,Monaco Grand Prix,GAS,Rule-based,590.0,0,1,False
 2025,Monaco Grand Prix,GAS,RL (PPO),590.0,0,1,False
 2025,Monaco Grand Prix,HAD,Historical,5951.9,2,3,True
 2025,Monaco Grand Prix,HAD,Rule-based,5924.7,1,2,True
-2025,Monaco Grand Prix,HAD,RL (PPO),6027.1,0,1,True
+2025,Monaco Grand Prix,HAD,RL (PPO),5956.2,2,2,False
 2025,Monaco Grand Prix,HAM,Historical,6016.5,1,2,False
 2025,Monaco Grand Prix,HAM,Rule-based,6073.8,0,1,True
-2025,Monaco Grand Prix,HAM,RL (PPO),6073.8,0,1,True
+2025,Monaco Grand Prix,HAM,RL (PPO),5991.3,2,2,False
 2025,Monaco Grand Prix,HUL,Historical,5857.9,2,3,False
 2025,Monaco Grand Prix,HUL,Rule-based,5849.0,1,2,True
-2025,Monaco Grand Prix,HUL,RL (PPO),5947.2,0,1,True
+2025,Monaco Grand Prix,HUL,RL (PPO),5881.6,2,2,False
 2025,Monaco Grand Prix,LAW,Historical,5939.9,2,3,False
 2025,Monaco Grand Prix,LAW,Rule-based,5924.7,1,2,True
-2025,Monaco Grand Prix,LAW,RL (PPO),6027.1,0,1,True
+2025,Monaco Grand Prix,LAW,RL (PPO),5956.2,2,2,False
 2025,Monaco Grand Prix,LEC,Historical,5983.2,2,2,False
 2025,Monaco Grand Prix,LEC,Rule-based,5970.6,1,2,True
-2025,Monaco Grand Prix,LEC,RL (PPO),6073.8,0,1,True
+2025,Monaco Grand Prix,LEC,RL (PPO),5997.8,2,2,False
 2025,Monaco Grand Prix,NOR,Historical,6018.4,1,2,True
 2025,Monaco Grand Prix,NOR,Rule-based,6002.2,1,2,True
-2025,Monaco Grand Prix,NOR,RL (PPO),6108.6,0,1,True
+2025,Monaco Grand Prix,NOR,RL (PPO),6032.4,2,2,False
 2025,Monaco Grand Prix,OCO,Historical,5982.8,1,2,True
 2025,Monaco Grand Prix,OCO,Rule-based,5983.3,1,2,True
-2025,Monaco Grand Prix,OCO,RL (PPO),6042.0,0,1,True
+2025,Monaco Grand Prix,OCO,RL (PPO),5999.2,2,2,False
 2025,Monaco Grand Prix,PIA,Historical,6014.8,1,2,True
 2025,Monaco Grand Prix,PIA,Rule-based,6002.2,1,2,True
-2025,Monaco Grand Prix,PIA,RL (PPO),6108.6,0,1,True
+2025,Monaco Grand Prix,PIA,RL (PPO),6032.4,2,2,False
 2025,Monaco Grand Prix,RUS,Historical,5860.7,2,2,False
 2025,Monaco Grand Prix,RUS,Rule-based,5915.0,0,1,True
-2025,Monaco Grand Prix,RUS,RL (PPO),5915.0,0,1,True
+2025,Monaco Grand Prix,RUS,RL (PPO),5843.6,2,2,False
 2025,Monaco Grand Prix,SAI,Historical,5901.3,1,2,False
 2025,Monaco Grand Prix,SAI,Rule-based,5961.8,0,1,True
-2025,Monaco Grand Prix,SAI,RL (PPO),5961.8,0,1,True
+2025,Monaco Grand Prix,SAI,RL (PPO),5923.9,2,2,False
 2025,Monaco Grand Prix,STR,Historical,5936.1,1,2,False
 2025,Monaco Grand Prix,STR,Rule-based,5947.2,0,1,True
-2025,Monaco Grand Prix,STR,RL (PPO),5947.2,0,1,True
+2025,Monaco Grand Prix,STR,RL (PPO),5872.3,2,2,False
 2025,Monaco Grand Prix,TSU,Historical,5922.7,1,2,False
 2025,Monaco Grand Prix,TSU,Rule-based,5904.2,0,1,True
-2025,Monaco Grand Prix,TSU,RL (PPO),5904.2,0,1,True
+2025,Monaco Grand Prix,TSU,RL (PPO),5838.1,2,2,False
 2025,Monaco Grand Prix,VER,Historical,5992.7,2,3,False
 2025,Monaco Grand Prix,VER,Rule-based,6065.3,0,1,True
-2025,Monaco Grand Prix,VER,RL (PPO),6065.3,0,1,True
+2025,Monaco Grand Prix,VER,RL (PPO),5988.3,2,2,False
 2025,Qatar Grand Prix,ALB,Historical,4952.1,1,2,True
 2025,Qatar Grand Prix,ALB,Rule-based,4938.9,0,1,True
-2025,Qatar Grand Prix,ALB,RL (PPO),4938.9,0,1,True
+2025,Qatar Grand Prix,ALB,RL (PPO),4959.6,1,2,False
 2025,Qatar Grand Prix,ALO,Historical,4927.2,1,2,False
 2025,Qatar Grand Prix,ALO,Rule-based,4926.5,1,2,False
-2025,Qatar Grand Prix,ALO,RL (PPO),4907.0,0,1,True
+2025,Qatar Grand Prix,ALO,RL (PPO),4924.9,1,2,False
 2025,Qatar Grand Prix,ANT,Historical,4884.5,1,2,False
 2025,Qatar Grand Prix,ANT,Rule-based,4890.0,1,2,False
-2025,Qatar Grand Prix,ANT,RL (PPO),4878.7,0,1,True
+2025,Qatar Grand Prix,ANT,RL (PPO),4889.8,1,2,False
 2025,Qatar Grand Prix,BEA,Historical,3548.1,1,2,False
 2025,Qatar Grand Prix,BEA,Rule-based,3547.0,1,2,False
-2025,Qatar Grand Prix,BEA,RL (PPO),3523.3,0,1,True
+2025,Qatar Grand Prix,BEA,RL (PPO),3551.9,1,2,False
 2025,Qatar Grand Prix,BOR,Historical,4927.2,1,2,False
 2025,Qatar Grand Prix,BOR,Rule-based,4926.5,1,2,False
-2025,Qatar Grand Prix,BOR,RL (PPO),4907.0,0,1,True
+2025,Qatar Grand Prix,BOR,RL (PPO),4924.9,1,2,False
 2025,Qatar Grand Prix,COL,Historical,4831.0,1,2,True
 2025,Qatar Grand Prix,COL,Rule-based,4818.9,0,1,True
-2025,Qatar Grand Prix,COL,RL (PPO),4818.9,0,1,True
+2025,Qatar Grand Prix,COL,RL (PPO),4838.6,1,2,False
 2025,Qatar Grand Prix,GAS,Historical,4848.8,2,2,False
 2025,Qatar Grand Prix,GAS,Rule-based,4839.0,1,2,False
-2025,Qatar Grand Prix,GAS,RL (PPO),4818.9,0,1,True
+2025,Qatar Grand Prix,GAS,RL (PPO),4837.6,1,2,False
 2025,Qatar Grand Prix,HAD,Historical,4752.4,1,2,False
 2025,Qatar Grand Prix,HAD,Rule-based,4751.7,1,2,False
-2025,Qatar Grand Prix,HAD,RL (PPO),4731.0,0,1,True
+2025,Qatar Grand Prix,HAD,RL (PPO),4750.6,1,2,False
 2025,Qatar Grand Prix,HAM,Historical,4891.9,1,2,True
 2025,Qatar Grand Prix,HAM,Rule-based,4913.6,2,3,False
-2025,Qatar Grand Prix,HAM,RL (PPO),4880.7,0,1,True
+2025,Qatar Grand Prix,HAM,RL (PPO),4887.9,1,2,False
 2025,Qatar Grand Prix,HUL,Historical,537.6,0,1,False
 2025,Qatar Grand Prix,HUL,Rule-based,537.6,0,1,False
 2025,Qatar Grand Prix,HUL,RL (PPO),537.6,0,1,False
 2025,Qatar Grand Prix,LAW,Historical,4927.2,1,2,False
 2025,Qatar Grand Prix,LAW,Rule-based,4926.5,1,2,False
-2025,Qatar Grand Prix,LAW,RL (PPO),4907.0,0,1,True
+2025,Qatar Grand Prix,LAW,RL (PPO),4924.9,1,2,False
 2025,Qatar Grand Prix,LEC,Historical,4886.4,1,2,False
 2025,Qatar Grand Prix,LEC,Rule-based,4892.0,1,2,False
-2025,Qatar Grand Prix,LEC,RL (PPO),4880.7,0,1,True
+2025,Qatar Grand Prix,LEC,RL (PPO),4892.0,1,2,False
 2025,Qatar Grand Prix,NOR,Historical,4909.5,1,2,False
 2025,Qatar Grand Prix,NOR,Rule-based,4904.5,1,2,False
-2025,Qatar Grand Prix,NOR,RL (PPO),4894.5,0,1,True
+2025,Qatar Grand Prix,NOR,RL (PPO),4905.8,1,2,False
 2025,Qatar Grand Prix,OCO,Historical,4904.0,3,2,False
 2025,Qatar Grand Prix,OCO,Rule-based,4873.4,1,2,False
-2025,Qatar Grand Prix,OCO,RL (PPO),4853.4,0,1,True
+2025,Qatar Grand Prix,OCO,RL (PPO),4876.0,1,2,False
 2025,Qatar Grand Prix,PIA,Historical,4907.7,1,2,False
 2025,Qatar Grand Prix,PIA,Rule-based,4904.5,1,2,False
-2025,Qatar Grand Prix,PIA,RL (PPO),4894.5,0,1,True
+2025,Qatar Grand Prix,PIA,RL (PPO),4905.8,1,2,False
 2025,Qatar Grand Prix,RUS,Historical,4884.5,1,2,False
 2025,Qatar Grand Prix,RUS,Rule-based,4890.0,1,2,False
-2025,Qatar Grand Prix,RUS,RL (PPO),4878.7,0,1,True
+2025,Qatar Grand Prix,RUS,RL (PPO),4889.8,1,2,False
 2025,Qatar Grand Prix,SAI,Historical,4959.4,1,2,False
 2025,Qatar Grand Prix,SAI,Rule-based,4959.8,1,2,False
-2025,Qatar Grand Prix,SAI,RL (PPO),4938.8,0,1,True
+2025,Qatar Grand Prix,SAI,RL (PPO),4962.0,1,2,False
 2025,Qatar Grand Prix,STR,Historical,4754.6,1,2,False
 2025,Qatar Grand Prix,STR,Rule-based,4751.7,1,2,False
-2025,Qatar Grand Prix,STR,RL (PPO),4731.0,0,1,True
+2025,Qatar Grand Prix,STR,RL (PPO),4750.6,1,2,False
 2025,Qatar Grand Prix,TSU,Historical,4878.9,1,2,False
 2025,Qatar Grand Prix,TSU,Rule-based,4875.6,1,2,False
-2025,Qatar Grand Prix,TSU,RL (PPO),4874.3,0,1,True
+2025,Qatar Grand Prix,TSU,RL (PPO),4885.5,1,2,False
 2025,Qatar Grand Prix,VER,Historical,4878.9,1,2,False
 2025,Qatar Grand Prix,VER,Rule-based,4875.6,1,2,False
-2025,Qatar Grand Prix,VER,RL (PPO),4874.3,0,1,True
+2025,Qatar Grand Prix,VER,RL (PPO),4885.5,1,2,False
 2025,Saudi Arabian Grand Prix,ALB,Historical,4688.3,1,2,False
 2025,Saudi Arabian Grand Prix,ALB,Rule-based,4688.2,1,2,False
-2025,Saudi Arabian Grand Prix,ALB,RL (PPO),4689.3,0,1,True
+2025,Saudi Arabian Grand Prix,ALB,RL (PPO),4690.0,1,2,False
 2025,Saudi Arabian Grand Prix,ALO,Historical,4676.1,1,2,False
 2025,Saudi Arabian Grand Prix,ALO,Rule-based,4676.6,1,2,False
-2025,Saudi Arabian Grand Prix,ALO,RL (PPO),4677.0,0,1,True
+2025,Saudi Arabian Grand Prix,ALO,RL (PPO),4676.3,1,2,False
 2025,Saudi Arabian Grand Prix,ANT,Historical,4613.3,1,2,False
 2025,Saudi Arabian Grand Prix,ANT,Rule-based,4611.9,1,2,False
-2025,Saudi Arabian Grand Prix,ANT,RL (PPO),4611.3,0,1,True
+2025,Saudi Arabian Grand Prix,ANT,RL (PPO),4613.8,1,2,False
 2025,Saudi Arabian Grand Prix,BEA,Historical,4685.6,1,2,False
 2025,Saudi Arabian Grand Prix,BEA,Rule-based,4688.2,1,2,False
-2025,Saudi Arabian Grand Prix,BEA,RL (PPO),4689.3,0,1,True
+2025,Saudi Arabian Grand Prix,BEA,RL (PPO),4690.1,1,2,False
 2025,Saudi Arabian Grand Prix,BOR,Historical,4582.0,0,1,True
 2025,Saudi Arabian Grand Prix,BOR,Rule-based,4582.0,0,1,True
-2025,Saudi Arabian Grand Prix,BOR,RL (PPO),4582.0,0,1,True
+2025,Saudi Arabian Grand Prix,BOR,RL (PPO),4581.2,1,2,False
 2025,Saudi Arabian Grand Prix,DOO,Historical,4580.3,0,1,True
 2025,Saudi Arabian Grand Prix,DOO,Rule-based,4580.3,0,1,True
-2025,Saudi Arabian Grand Prix,DOO,RL (PPO),4580.3,0,1,True
+2025,Saudi Arabian Grand Prix,DOO,RL (PPO),4579.1,1,2,False
 2025,Saudi Arabian Grand Prix,HAD,Historical,4674.3,1,2,False
 2025,Saudi Arabian Grand Prix,HAD,Rule-based,4677.0,0,1,True
-2025,Saudi Arabian Grand Prix,HAD,RL (PPO),4677.0,0,1,True
+2025,Saudi Arabian Grand Prix,HAD,RL (PPO),4676.8,1,2,False
 2025,Saudi Arabian Grand Prix,HAM,Historical,4617.4,1,2,False
 2025,Saudi Arabian Grand Prix,HAM,Rule-based,4615.9,1,2,False
-2025,Saudi Arabian Grand Prix,HAM,RL (PPO),4614.5,0,1,True
+2025,Saudi Arabian Grand Prix,HAM,RL (PPO),4617.3,1,2,False
 2025,Saudi Arabian Grand Prix,HUL,Historical,4579.5,1,2,False
 2025,Saudi Arabian Grand Prix,HUL,Rule-based,4582.0,0,1,True
-2025,Saudi Arabian Grand Prix,HUL,RL (PPO),4582.0,0,1,True
+2025,Saudi Arabian Grand Prix,HUL,RL (PPO),4581.2,1,2,False
 2025,Saudi Arabian Grand Prix,LAW,Historical,4676.7,1,2,False
 2025,Saudi Arabian Grand Prix,LAW,Rule-based,4676.6,1,2,False
-2025,Saudi Arabian Grand Prix,LAW,RL (PPO),4677.0,0,1,True
+2025,Saudi Arabian Grand Prix,LAW,RL (PPO),4676.3,1,2,False
 2025,Saudi Arabian Grand Prix,LEC,Historical,4616.3,1,2,False
 2025,Saudi Arabian Grand Prix,LEC,Rule-based,4615.9,1,2,False
-2025,Saudi Arabian Grand Prix,LEC,RL (PPO),4614.5,0,1,True
+2025,Saudi Arabian Grand Prix,LEC,RL (PPO),4617.3,1,2,False
 2025,Saudi Arabian Grand Prix,NOR,Historical,4660.4,1,2,False
 2025,Saudi Arabian Grand Prix,NOR,Rule-based,4663.4,0,1,True
-2025,Saudi Arabian Grand Prix,NOR,RL (PPO),4663.4,0,1,True
+2025,Saudi Arabian Grand Prix,NOR,RL (PPO),4657.1,1,2,False
 2025,Saudi Arabian Grand Prix,OCO,Historical,4689.6,0,1,True
 2025,Saudi Arabian Grand Prix,OCO,Rule-based,4689.6,0,1,True
-2025,Saudi Arabian Grand Prix,OCO,RL (PPO),4689.6,0,1,True
+2025,Saudi Arabian Grand Prix,OCO,RL (PPO),4687.5,1,2,False
 2025,Saudi Arabian Grand Prix,PIA,Historical,4655.0,1,2,False
 2025,Saudi Arabian Grand Prix,PIA,Rule-based,4658.6,1,2,False
-2025,Saudi Arabian Grand Prix,PIA,RL (PPO),4663.4,0,1,True
+2025,Saudi Arabian Grand Prix,PIA,RL (PPO),4661.8,1,2,False
 2025,Saudi Arabian Grand Prix,RUS,Historical,4613.0,1,2,False
 2025,Saudi Arabian Grand Prix,RUS,Rule-based,4611.9,1,2,False
-2025,Saudi Arabian Grand Prix,RUS,RL (PPO),4611.3,0,1,True
+2025,Saudi Arabian Grand Prix,RUS,RL (PPO),4613.8,1,2,False
 2025,Saudi Arabian Grand Prix,SAI,Historical,4687.5,1,2,False
 2025,Saudi Arabian Grand Prix,SAI,Rule-based,4688.2,1,2,False
-2025,Saudi Arabian Grand Prix,SAI,RL (PPO),4689.3,0,1,True
+2025,Saudi Arabian Grand Prix,SAI,RL (PPO),4690.0,1,2,False
 2025,Saudi Arabian Grand Prix,STR,Historical,4581.3,1,2,False
 2025,Saudi Arabian Grand Prix,STR,Rule-based,4582.0,0,1,True
-2025,Saudi Arabian Grand Prix,STR,RL (PPO),4582.0,0,1,True
+2025,Saudi Arabian Grand Prix,STR,RL (PPO),4581.2,1,2,False
 2025,Saudi Arabian Grand Prix,VER,Historical,4608.7,1,2,False
 2025,Saudi Arabian Grand Prix,VER,Rule-based,4608.9,1,2,False
-2025,Saudi Arabian Grand Prix,VER,RL (PPO),4607.9,0,1,True
+2025,Saudi Arabian Grand Prix,VER,RL (PPO),4608.7,1,2,False
 2025,Singapore Grand Prix,ALB,Historical,6071.7,1,2,False
 2025,Singapore Grand Prix,ALB,Rule-based,6067.8,1,2,False
-2025,Singapore Grand Prix,ALB,RL (PPO),6060.5,0,1,True
+2025,Singapore Grand Prix,ALB,RL (PPO),6071.7,1,2,False
 2025,Singapore Grand Prix,ALO,Historical,6133.3,1,2,False
 2025,Singapore Grand Prix,ALO,Rule-based,6148.1,2,3,False
-2025,Singapore Grand Prix,ALO,RL (PPO),6122.6,0,1,True
+2025,Singapore Grand Prix,ALO,RL (PPO),6136.3,1,2,False
 2025,Singapore Grand Prix,ANT,Historical,6107.6,1,2,False
 2025,Singapore Grand Prix,ANT,Rule-based,6106.8,1,2,False
-2025,Singapore Grand Prix,ANT,RL (PPO),6091.0,0,1,True
+2025,Singapore Grand Prix,ANT,RL (PPO),6102.3,1,2,False
 2025,Singapore Grand Prix,BEA,Historical,6158.8,1,2,False
 2025,Singapore Grand Prix,BEA,Rule-based,6159.4,1,2,False
-2025,Singapore Grand Prix,BEA,RL (PPO),6146.4,0,1,True
+2025,Singapore Grand Prix,BEA,RL (PPO),6161.1,1,2,False
 2025,Singapore Grand Prix,BOR,Historical,6047.3,1,2,True
 2025,Singapore Grand Prix,BOR,Rule-based,6046.5,1,2,False
-2025,Singapore Grand Prix,BOR,RL (PPO),6036.0,0,1,True
+2025,Singapore Grand Prix,BOR,RL (PPO),6047.5,1,2,False
 2025,Singapore Grand Prix,COL,Historical,6047.2,1,2,True
 2025,Singapore Grand Prix,COL,Rule-based,6060.2,2,3,False
-2025,Singapore Grand Prix,COL,RL (PPO),6035.0,0,1,True
+2025,Singapore Grand Prix,COL,RL (PPO),6048.0,1,2,False
 2025,Singapore Grand Prix,GAS,Historical,6060.3,2,3,False
 2025,Singapore Grand Prix,GAS,Rule-based,6045.5,1,2,False
-2025,Singapore Grand Prix,GAS,RL (PPO),6035.0,0,1,True
+2025,Singapore Grand Prix,GAS,RL (PPO),6046.9,1,2,False
 2025,Singapore Grand Prix,HAD,Historical,6049.9,1,2,False
 2025,Singapore Grand Prix,HAD,Rule-based,6060.8,2,3,False
-2025,Singapore Grand Prix,HAD,RL (PPO),6036.0,0,1,True
+2025,Singapore Grand Prix,HAD,RL (PPO),6049.3,1,2,False
 2025,Singapore Grand Prix,HAM,Historical,6118.4,2,3,False
 2025,Singapore Grand Prix,HAM,Rule-based,6108.1,1,2,False
-2025,Singapore Grand Prix,HAM,RL (PPO),6092.0,0,1,True
+2025,Singapore Grand Prix,HAM,RL (PPO),6103.4,1,2,False
 2025,Singapore Grand Prix,HUL,Historical,6062.6,2,3,False
 2025,Singapore Grand Prix,HUL,Rule-based,6046.5,1,2,False
-2025,Singapore Grand Prix,HUL,RL (PPO),6036.0,0,1,True
+2025,Singapore Grand Prix,HUL,RL (PPO),6047.5,1,2,False
 2025,Singapore Grand Prix,LAW,Historical,6050.2,1,2,False
 2025,Singapore Grand Prix,LAW,Rule-based,6046.5,1,2,False
-2025,Singapore Grand Prix,LAW,RL (PPO),6036.0,0,1,True
+2025,Singapore Grand Prix,LAW,RL (PPO),6047.5,1,2,False
 2025,Singapore Grand Prix,LEC,Historical,6109.6,1,2,False
 2025,Singapore Grand Prix,LEC,Rule-based,6108.1,1,2,False
-2025,Singapore Grand Prix,LEC,RL (PPO),6092.0,0,1,True
+2025,Singapore Grand Prix,LEC,RL (PPO),6103.4,1,2,False
 2025,Singapore Grand Prix,NOR,Historical,6116.1,1,2,False
 2025,Singapore Grand Prix,NOR,Rule-based,6116.6,1,2,False
-2025,Singapore Grand Prix,NOR,RL (PPO),6106.4,0,1,True
+2025,Singapore Grand Prix,NOR,RL (PPO),6114.6,1,2,False
 2025,Singapore Grand Prix,OCO,Historical,6069.8,1,2,False
 2025,Singapore Grand Prix,OCO,Rule-based,6068.6,1,2,False
-2025,Singapore Grand Prix,OCO,RL (PPO),6061.3,0,1,True
+2025,Singapore Grand Prix,OCO,RL (PPO),6072.6,1,2,False
 2025,Singapore Grand Prix,PIA,Historical,6116.6,1,2,False
 2025,Singapore Grand Prix,PIA,Rule-based,6116.6,1,2,False
-2025,Singapore Grand Prix,PIA,RL (PPO),6106.4,0,1,True
+2025,Singapore Grand Prix,PIA,RL (PPO),6114.6,1,2,False
 2025,Singapore Grand Prix,RUS,Historical,6107.6,1,2,False
 2025,Singapore Grand Prix,RUS,Rule-based,6106.8,1,2,False
-2025,Singapore Grand Prix,RUS,RL (PPO),6091.0,0,1,True
+2025,Singapore Grand Prix,RUS,RL (PPO),6102.3,1,2,False
 2025,Singapore Grand Prix,SAI,Historical,6075.4,1,2,False
 2025,Singapore Grand Prix,SAI,Rule-based,6067.8,1,2,False
-2025,Singapore Grand Prix,SAI,RL (PPO),6060.5,0,1,True
+2025,Singapore Grand Prix,SAI,RL (PPO),6071.7,1,2,False
 2025,Singapore Grand Prix,STR,Historical,6049.4,1,2,False
 2025,Singapore Grand Prix,STR,Rule-based,6060.8,2,3,False
-2025,Singapore Grand Prix,STR,RL (PPO),6036.0,0,1,True
+2025,Singapore Grand Prix,STR,RL (PPO),6049.3,1,2,False
 2025,Singapore Grand Prix,TSU,Historical,6013.1,1,2,True
 2025,Singapore Grand Prix,TSU,Rule-based,6026.4,2,3,False
-2025,Singapore Grand Prix,TSU,RL (PPO),6006.6,0,1,True
+2025,Singapore Grand Prix,TSU,RL (PPO),6015.4,1,2,False
 2025,Singapore Grand Prix,VER,Historical,6106.3,1,2,False
 2025,Singapore Grand Prix,VER,Rule-based,6115.0,2,3,False
-2025,Singapore Grand Prix,VER,RL (PPO),6087.5,0,1,True
+2025,Singapore Grand Prix,VER,RL (PPO),6101.5,1,2,False
 2025,Spanish Grand Prix,ALB,Historical,2287.5,0,1,False
 2025,Spanish Grand Prix,ALB,Rule-based,2287.5,0,1,False
-2025,Spanish Grand Prix,ALB,RL (PPO),2287.5,0,1,False
+2025,Spanish Grand Prix,ALB,RL (PPO),2315.7,1,2,False
 2025,Spanish Grand Prix,ALO,Historical,5677.4,2,2,False
 2025,Spanish Grand Prix,ALO,Rule-based,5687.2,2,3,False
-2025,Spanish Grand Prix,ALO,RL (PPO),5666.6,0,1,True
+2025,Spanish Grand Prix,ALO,RL (PPO),5658.4,1,2,False
 2025,Spanish Grand Prix,ANT,Historical,4609.9,2,2,False
 2025,Spanish Grand Prix,ANT,Rule-based,4589.6,1,2,False
-2025,Spanish Grand Prix,ANT,RL (PPO),4581.0,0,1,True
+2025,Spanish Grand Prix,ANT,RL (PPO),4595.1,1,2,False
 2025,Spanish Grand Prix,BEA,Historical,5722.5,2,2,False
 2025,Spanish Grand Prix,BEA,Rule-based,5708.5,2,3,False
-2025,Spanish Grand Prix,BEA,RL (PPO),5687.4,0,1,True
+2025,Spanish Grand Prix,BEA,RL (PPO),5699.9,1,2,False
 2025,Spanish Grand Prix,BOR,Historical,5683.1,2,2,False
 2025,Spanish Grand Prix,BOR,Rule-based,5687.2,2,3,False
-2025,Spanish Grand Prix,BOR,RL (PPO),5666.6,0,1,True
+2025,Spanish Grand Prix,BOR,RL (PPO),5658.4,1,2,False
 2025,Spanish Grand Prix,COL,Historical,5676.0,2,2,False
 2025,Spanish Grand Prix,COL,Rule-based,5687.1,2,3,False
-2025,Spanish Grand Prix,COL,RL (PPO),5666.5,0,1,True
+2025,Spanish Grand Prix,COL,RL (PPO),5658.3,1,2,False
 2025,Spanish Grand Prix,GAS,Historical,5682.2,2,2,False
 2025,Spanish Grand Prix,GAS,Rule-based,5687.1,2,3,False
-2025,Spanish Grand Prix,GAS,RL (PPO),5666.5,0,1,True
+2025,Spanish Grand Prix,GAS,RL (PPO),5658.3,1,2,False
 2025,Spanish Grand Prix,HAD,Historical,5682.4,2,2,False
 2025,Spanish Grand Prix,HAD,Rule-based,5687.2,2,3,False
-2025,Spanish Grand Prix,HAD,RL (PPO),5666.6,0,1,True
+2025,Spanish Grand Prix,HAD,RL (PPO),5658.4,1,2,False
 2025,Spanish Grand Prix,HAM,Historical,5613.7,2,2,False
 2025,Spanish Grand Prix,HAM,Rule-based,5611.6,2,3,False
-2025,Spanish Grand Prix,HAM,RL (PPO),5587.4,0,1,True
+2025,Spanish Grand Prix,HAM,RL (PPO),5595.0,1,2,False
 2025,Spanish Grand Prix,HUL,Historical,5683.9,2,2,False
 2025,Spanish Grand Prix,HUL,Rule-based,5687.2,2,3,False
-2025,Spanish Grand Prix,HUL,RL (PPO),5666.6,0,1,True
+2025,Spanish Grand Prix,HUL,RL (PPO),5658.4,1,2,False
 2025,Spanish Grand Prix,LAW,Historical,5680.2,2,2,False
 2025,Spanish Grand Prix,LAW,Rule-based,5687.2,2,3,False
-2025,Spanish Grand Prix,LAW,RL (PPO),5666.6,0,1,True
+2025,Spanish Grand Prix,LAW,RL (PPO),5658.4,1,2,False
 2025,Spanish Grand Prix,LEC,Historical,5611.3,2,2,False
 2025,Spanish Grand Prix,LEC,Rule-based,5611.6,2,3,False
-2025,Spanish Grand Prix,LEC,RL (PPO),5587.4,0,1,True
+2025,Spanish Grand Prix,LEC,RL (PPO),5595.0,1,2,False
 2025,Spanish Grand Prix,NOR,Historical,5668.9,2,2,False
 2025,Spanish Grand Prix,NOR,Rule-based,5662.5,2,3,False
-2025,Spanish Grand Prix,NOR,RL (PPO),5651.9,0,1,True
+2025,Spanish Grand Prix,NOR,RL (PPO),5646.8,1,2,False
 2025,Spanish Grand Prix,OCO,Historical,5704.7,1,2,True
 2025,Spanish Grand Prix,OCO,Rule-based,5708.5,2,3,False
-2025,Spanish Grand Prix,OCO,RL (PPO),5687.4,0,1,True
+2025,Spanish Grand Prix,OCO,RL (PPO),5699.9,1,2,False
 2025,Spanish Grand Prix,PIA,Historical,5670.1,2,2,False
 2025,Spanish Grand Prix,PIA,Rule-based,5662.5,2,3,False
-2025,Spanish Grand Prix,PIA,RL (PPO),5651.9,0,1,True
+2025,Spanish Grand Prix,PIA,RL (PPO),5646.8,1,2,False
 2025,Spanish Grand Prix,RUS,Historical,5613.4,2,2,False
 2025,Spanish Grand Prix,RUS,Rule-based,5610.7,2,3,False
-2025,Spanish Grand Prix,RUS,RL (PPO),5591.1,0,1,True
+2025,Spanish Grand Prix,RUS,RL (PPO),5594.1,1,2,False
 2025,Spanish Grand Prix,SAI,Historical,5713.8,2,2,False
 2025,Spanish Grand Prix,SAI,Rule-based,5707.4,2,3,False
-2025,Spanish Grand Prix,SAI,RL (PPO),5685.1,0,1,True
+2025,Spanish Grand Prix,SAI,RL (PPO),5697.0,1,2,False
 2025,Spanish Grand Prix,TSU,Historical,5595.3,1,2,True
 2025,Spanish Grand Prix,TSU,Rule-based,5592.5,1,2,False
-2025,Spanish Grand Prix,TSU,RL (PPO),5579.3,0,1,True
+2025,Spanish Grand Prix,TSU,RL (PPO),5589.0,1,2,False
 2025,Spanish Grand Prix,VER,Historical,5620.5,3,3,False
 2025,Spanish Grand Prix,VER,Rule-based,5606.8,2,3,False
-2025,Spanish Grand Prix,VER,RL (PPO),5579.3,0,1,True
+2025,Spanish Grand Prix,VER,RL (PPO),5589.6,1,2,False
 2025,São Paulo Grand Prix,ALB,Historical,5399.5,2,2,False
 2025,São Paulo Grand Prix,ALB,Rule-based,5405.5,1,2,False
-2025,São Paulo Grand Prix,ALB,RL (PPO),5414.0,0,1,True
+2025,São Paulo Grand Prix,ALB,RL (PPO),5406.7,1,2,False
 2025,São Paulo Grand Prix,ALO,Historical,5354.6,1,2,True
 2025,São Paulo Grand Prix,ALO,Rule-based,5368.0,0,1,True
-2025,São Paulo Grand Prix,ALO,RL (PPO),5368.0,0,1,True
+2025,São Paulo Grand Prix,ALO,RL (PPO),5358.4,2,2,False
 2025,São Paulo Grand Prix,ANT,Historical,5322.0,1,2,True
 2025,São Paulo Grand Prix,ANT,Rule-based,5304.9,2,3,False
-2025,São Paulo Grand Prix,ANT,RL (PPO),5336.7,0,1,True
+2025,São Paulo Grand Prix,ANT,RL (PPO),5323.4,1,2,False
 2025,São Paulo Grand Prix,BEA,Historical,5408.7,1,2,True
 2025,São Paulo Grand Prix,BEA,Rule-based,5396.4,2,3,False
-2025,São Paulo Grand Prix,BEA,RL (PPO),5416.3,0,1,True
+2025,São Paulo Grand Prix,BEA,RL (PPO),5410.3,1,2,False
 2025,São Paulo Grand Prix,COL,Historical,5340.3,2,2,False
 2025,São Paulo Grand Prix,COL,Rule-based,5359.7,1,2,False
-2025,São Paulo Grand Prix,COL,RL (PPO),5367.6,0,1,True
+2025,São Paulo Grand Prix,COL,RL (PPO),5355.8,1,2,False
 2025,São Paulo Grand Prix,GAS,Historical,5377.1,1,2,True
 2025,São Paulo Grand Prix,GAS,Rule-based,5352.8,2,3,False
-2025,São Paulo Grand Prix,GAS,RL (PPO),5372.5,0,1,True
+2025,São Paulo Grand Prix,GAS,RL (PPO),5359.1,1,2,False
 2025,São Paulo Grand Prix,HAD,Historical,5366.0,1,2,True
 2025,São Paulo Grand Prix,HAD,Rule-based,5347.4,2,3,False
-2025,São Paulo Grand Prix,HAD,RL (PPO),5368.8,0,1,True
+2025,São Paulo Grand Prix,HAD,RL (PPO),5353.8,1,2,False
 2025,São Paulo Grand Prix,HAM,Historical,2841.0,2,3,False
 2025,São Paulo Grand Prix,HAM,Rule-based,2844.0,1,2,False
-2025,São Paulo Grand Prix,HAM,RL (PPO),2848.8,0,1,True
+2025,São Paulo Grand Prix,HAM,RL (PPO),2851.0,1,2,False
 2025,São Paulo Grand Prix,HUL,Historical,5351.9,1,2,True
 2025,São Paulo Grand Prix,HUL,Rule-based,5358.4,1,2,False
-2025,São Paulo Grand Prix,HUL,RL (PPO),5368.0,0,1,True
+2025,São Paulo Grand Prix,HUL,RL (PPO),5353.7,1,2,False
 2025,São Paulo Grand Prix,LAW,Historical,5361.0,1,2,True
 2025,São Paulo Grand Prix,LAW,Rule-based,5347.4,2,3,False
-2025,São Paulo Grand Prix,LAW,RL (PPO),5368.8,0,1,True
+2025,São Paulo Grand Prix,LAW,RL (PPO),5353.8,1,2,False
 2025,São Paulo Grand Prix,NOR,Historical,5341.8,2,2,False
 2025,São Paulo Grand Prix,NOR,Rule-based,5357.6,1,2,False
-2025,São Paulo Grand Prix,NOR,RL (PPO),5372.2,0,1,True
+2025,São Paulo Grand Prix,NOR,RL (PPO),5352.9,1,2,False
 2025,São Paulo Grand Prix,OCO,Historical,5410.8,1,2,True
 2025,São Paulo Grand Prix,OCO,Rule-based,5416.2,0,1,True
-2025,São Paulo Grand Prix,OCO,RL (PPO),5416.2,0,1,True
+2025,São Paulo Grand Prix,OCO,RL (PPO),5411.3,2,2,False
 2025,São Paulo Grand Prix,PIA,Historical,5342.6,2,2,False
 2025,São Paulo Grand Prix,PIA,Rule-based,5357.6,1,2,False
-2025,São Paulo Grand Prix,PIA,RL (PPO),5372.2,0,1,True
+2025,São Paulo Grand Prix,PIA,RL (PPO),5352.9,1,2,False
 2025,São Paulo Grand Prix,RUS,Historical,5311.0,2,2,False
 2025,São Paulo Grand Prix,RUS,Rule-based,5317.7,1,2,False
-2025,São Paulo Grand Prix,RUS,RL (PPO),5336.6,0,1,True
+2025,São Paulo Grand Prix,RUS,RL (PPO),5320.4,1,2,False
 2025,São Paulo Grand Prix,SAI,Historical,5404.6,1,2,True
 2025,São Paulo Grand Prix,SAI,Rule-based,5391.1,2,3,False
-2025,São Paulo Grand Prix,SAI,RL (PPO),5415.2,0,1,True
+2025,São Paulo Grand Prix,SAI,RL (PPO),5409.6,1,2,False
 2025,São Paulo Grand Prix,STR,Historical,5355.1,1,2,True
 2025,São Paulo Grand Prix,STR,Rule-based,5368.0,0,1,True
-2025,São Paulo Grand Prix,STR,RL (PPO),5368.0,0,1,True
+2025,São Paulo Grand Prix,STR,RL (PPO),5358.4,2,2,False
 2025,São Paulo Grand Prix,TSU,Historical,5332.4,1,2,True
 2025,São Paulo Grand Prix,TSU,Rule-based,5336.3,0,1,True
-2025,São Paulo Grand Prix,TSU,RL (PPO),5336.3,0,1,True
+2025,São Paulo Grand Prix,TSU,RL (PPO),5322.2,2,2,False
 2025,São Paulo Grand Prix,VER,Historical,5316.1,2,3,False
 2025,São Paulo Grand Prix,VER,Rule-based,5336.3,0,1,True
-2025,São Paulo Grand Prix,VER,RL (PPO),5336.3,0,1,True
+2025,São Paulo Grand Prix,VER,RL (PPO),5322.2,2,2,False
 2025,United States Grand Prix,ALB,Historical,5749.4,2,3,False
 2025,United States Grand Prix,ALB,Rule-based,5698.8,0,1,True
-2025,United States Grand Prix,ALB,RL (PPO),5698.8,0,1,True
+2025,United States Grand Prix,ALB,RL (PPO),5726.7,1,2,False
 2025,United States Grand Prix,ALO,Historical,5742.0,1,2,False
 2025,United States Grand Prix,ALO,Rule-based,5705.7,1,2,False
-2025,United States Grand Prix,ALO,RL (PPO),5745.1,0,1,True
+2025,United States Grand Prix,ALO,RL (PPO),5754.0,1,2,False
 2025,United States Grand Prix,ANT,Historical,5697.3,1,2,False
 2025,United States Grand Prix,ANT,Rule-based,5651.3,1,2,False
-2025,United States Grand Prix,ANT,RL (PPO),5700.2,0,1,True
+2025,United States Grand Prix,ANT,RL (PPO),5706.9,1,2,False
 2025,United States Grand Prix,BEA,Historical,5757.7,1,2,False
 2025,United States Grand Prix,BEA,Rule-based,5722.5,1,2,False
-2025,United States Grand Prix,BEA,RL (PPO),5752.3,0,1,True
+2025,United States Grand Prix,BEA,RL (PPO),5764.0,1,2,False
 2025,United States Grand Prix,BOR,Historical,5631.7,2,2,False
 2025,United States Grand Prix,BOR,Rule-based,5634.8,1,2,False
-2025,United States Grand Prix,BOR,RL (PPO),5640.4,0,1,True
+2025,United States Grand Prix,BOR,RL (PPO),5641.9,1,2,False
 2025,United States Grand Prix,COL,Historical,5641.3,1,2,False
 2025,United States Grand Prix,COL,Rule-based,5603.4,1,2,False
-2025,United States Grand Prix,COL,RL (PPO),5640.6,0,1,True
+2025,United States Grand Prix,COL,RL (PPO),5650.1,1,2,False
 2025,United States Grand Prix,GAS,Historical,5636.5,1,2,False
 2025,United States Grand Prix,GAS,Rule-based,5603.4,1,2,False
-2025,United States Grand Prix,GAS,RL (PPO),5640.6,0,1,True
+2025,United States Grand Prix,GAS,RL (PPO),5650.1,1,2,False
 2025,United States Grand Prix,HAD,Historical,5709.9,1,2,False
 2025,United States Grand Prix,HAD,Rule-based,5682.7,0,1,True
-2025,United States Grand Prix,HAD,RL (PPO),5682.7,0,1,True
+2025,United States Grand Prix,HAD,RL (PPO),5709.9,1,2,False
 2025,United States Grand Prix,HAM,Historical,5701.4,1,2,False
 2025,United States Grand Prix,HAM,Rule-based,5655.0,1,2,False
-2025,United States Grand Prix,HAM,RL (PPO),5704.1,0,1,True
+2025,United States Grand Prix,HAM,RL (PPO),5710.0,1,2,False
 2025,United States Grand Prix,HUL,Historical,5745.3,1,2,False
 2025,United States Grand Prix,HUL,Rule-based,5705.7,1,2,False
-2025,United States Grand Prix,HUL,RL (PPO),5745.1,0,1,True
+2025,United States Grand Prix,HUL,RL (PPO),5754.0,1,2,False
 2025,United States Grand Prix,LAW,Historical,5742.0,1,2,False
 2025,United States Grand Prix,LAW,Rule-based,5705.7,1,2,False
-2025,United States Grand Prix,LAW,RL (PPO),5745.1,0,1,True
+2025,United States Grand Prix,LAW,RL (PPO),5754.0,1,2,False
 2025,United States Grand Prix,LEC,Historical,5692.1,1,2,False
 2025,United States Grand Prix,LEC,Rule-based,5703.1,2,3,False
-2025,United States Grand Prix,LEC,RL (PPO),5704.1,0,1,True
+2025,United States Grand Prix,LEC,RL (PPO),5704.4,1,2,False
 2025,United States Grand Prix,NOR,Historical,5739.8,1,2,False
 2025,United States Grand Prix,NOR,Rule-based,5691.2,1,2,False
-2025,United States Grand Prix,NOR,RL (PPO),5741.3,0,1,True
+2025,United States Grand Prix,NOR,RL (PPO),5749.5,1,2,False
 2025,United States Grand Prix,OCO,Historical,5730.1,1,2,False
 2025,United States Grand Prix,OCO,Rule-based,5699.2,0,1,True
-2025,United States Grand Prix,OCO,RL (PPO),5699.2,0,1,True
+2025,United States Grand Prix,OCO,RL (PPO),5727.4,1,2,False
 2025,United States Grand Prix,PIA,Historical,5738.2,1,2,False
 2025,United States Grand Prix,PIA,Rule-based,5691.2,1,2,False
-2025,United States Grand Prix,PIA,RL (PPO),5741.3,0,1,True
+2025,United States Grand Prix,PIA,RL (PPO),5749.5,1,2,False
 2025,United States Grand Prix,RUS,Historical,5700.4,1,2,False
 2025,United States Grand Prix,RUS,Rule-based,5651.3,1,2,False
-2025,United States Grand Prix,RUS,RL (PPO),5700.2,0,1,True
+2025,United States Grand Prix,RUS,RL (PPO),5706.9,1,2,False
 2025,United States Grand Prix,SAI,Historical,543.7,0,1,False
 2025,United States Grand Prix,SAI,Rule-based,543.7,0,1,False
 2025,United States Grand Prix,SAI,RL (PPO),543.7,0,1,False
 2025,United States Grand Prix,STR,Historical,5739.7,1,2,False
 2025,United States Grand Prix,STR,Rule-based,5747.9,2,3,False
-2025,United States Grand Prix,STR,RL (PPO),5745.1,0,1,True
+2025,United States Grand Prix,STR,RL (PPO),5746.0,1,2,False
 2025,United States Grand Prix,TSU,Historical,5680.7,1,2,False
 2025,United States Grand Prix,TSU,Rule-based,5634.3,1,2,False
-2025,United States Grand Prix,TSU,RL (PPO),5687.8,0,1,True
+2025,United States Grand Prix,TSU,RL (PPO),5690.3,1,2,False
 2025,United States Grand Prix,VER,Historical,5684.5,1,2,False
 2025,United States Grand Prix,VER,Rule-based,5634.3,1,2,False
-2025,United States Grand Prix,VER,RL (PPO),5687.8,0,1,True
+2025,United States Grand Prix,VER,RL (PPO),5690.3,1,2,False
